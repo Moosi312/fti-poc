@@ -60,7 +60,7 @@ function displayRelevantEDGByTopic(id) {
     relDocs.forEach(doc => {
         relTop = doc['bereiche'].filter(t => topics.includes(t));
         var el = document.createElement('li');
-        el.innerHTML = `<a href="${doc['url']}">${doc['goal-de']} (${relTop.join(',')})</a>`;
+        el.innerHTML = `<a href="${doc['url']}">${doc['goal-de']} - ${doc['indicator-de']} (${relTop.join(',')})</a>`;
         docList.appendChild(el);
     })
 }
