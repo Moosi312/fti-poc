@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My Website</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+    <script src="./script.js"></script>
+  </head>
+  <body>
+    <div class="wrapper">
+        <div class="search-box">
+            <input id="indicator-search" list="indicators-list" oninput="onSearch()"/>
+            <datalist id="indicators-list">
+                <option value="test"></option>
+            </datalist>
+        </div>
+        <div class="search-results">
+            <h5>Affected Topics</h5>
+            <ul id="topic-list">
+            </ul>
+        </div>
+        <div class="search-results">
+            <h5>Relevant documents by topic</h5>
+            <ul id="doc-topic-list">
+            </ul>
+        </div>
+        <div class="search-results">
+            <h5>Relevant EDG by topic</h5>
+            <ul id="edg-topic-list">
+            </ul>
+        </div>
+        <div class="search-results">
+            <h5>Relevant SDG by topic</h5>
+            <ul id="sdg-topic-list">
+            </ul>
+        </div>
+    </div>
+  </body>
+</html>
