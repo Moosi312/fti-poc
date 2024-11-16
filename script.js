@@ -7,7 +7,7 @@ let docs = [];
 let edgs = [];
 let sdgs = [];
 
-function onSearch(event) {
+function onSearch() {
     let value = document.getElementById('indicator-search').value;
 
     id = optionsLocRev.get(value);
@@ -25,7 +25,7 @@ function displayAffectedTopics(id) {
     topics = optionsTopic.get(id);
     topicList.innerHTML = '';
     console.log("Affected topics: ", topics);
-    topics.forEach(topic => {
+    topics.forEach((topic) => {
         var l = loc[topic]['short']
         var io = loc[id]['io']
         var el = document.createElement('li');
@@ -34,21 +34,67 @@ function displayAffectedTopics(id) {
             el.innerHTML = `${topic}: ${l ?? topic} - ${io === 'i' ? 'Input' : 'Output'}`;
         }
         topicList.appendChild(el);
-    })
+    });
 }
 
 function displayRelevantDocsByTopic(id) {
-    const docList = document.getElementById('doc-topic-list');
+    // const docList = document.getElementById('doc-topic-list');
     topics = optionsTopic.get(id);
-    docList.innerHTML = '';
+    // docList.innerHTML = '';
     const relDocs = docs.filter(doc => doc['topicIds'].filter(t => topics.includes(t)).length);
     console.log("Found docs: ", relDocs);
+    // relDocs.forEach(doc => {
+    //     relTop = doc['topicIds'].filter(t => topics.includes(t));
+    //     var el = document.createElement('div');
+    //     el.setAttribute('class', 'doc-wrapper');
+    //     el.innerHTML = getDocumentElement(doc);
+    //     docList.appendChild(el);
+    // })
+    const docsMap = new Map();
     relDocs.forEach(doc => {
+        const type = doc['type'];
+        if (!docsMap.has(type)) {
+            docsMap.set(type, []);
+        }
+        docsMap.get(type).push(doc);
+    });
+    console.log(docsMap)
+    docsMap.forEach((value, key) => {
+        displayDocsByType(key, value, topics);
+    })
+}
+
+function displayDocsByType(type, docs, topics) {
+    console.log(type, docs);
+    const docList = document.getElementById(`doc-list-${type}`);
+    docList.innerHTML = '';
+    docs.slice(0, 3).forEach((doc) => {
         relTop = doc['topicIds'].filter(t => topics.includes(t));
-        var el = document.createElement('li');
-        el.innerHTML = `<a href="docs/pdf/${doc['file']}">${doc['type']} - ${doc['year']} - ${doc['name']} (${relTop.join(',')})</a>`;
+        var el = document.createElement('div');
+        el.setAttribute('class', 'doc-wrapper');
+        el.innerHTML = getDocumentElement(doc, topics);
         docList.appendChild(el);
     })
+    if (docs.length > 3) {
+        const el = document.createElement('span');
+        el.innerHTML = 'More...';
+        docList.appendChild(el);
+    }
+}
+
+function getDocumentElement(doc, topics) {
+    const relTop = doc['topicIds'].filter(t => topics.includes(t));
+    return (
+    `<a href="docs/pdf/${doc['file']}" class="document">
+        <img src="/docs/img/${doc['file']}.png" alt="PDF"/>
+        <div class="doc-content">
+            <span class="doc-title">${doc['name']}</span>
+            <span class="doc-institute">Inst?</span>
+            <span>${doc['year']}</span>
+            <span>${relTop.join(', ')}</span>
+        </div>
+    </a>`
+    );
 }
 
 function displayRelevantEDGByTopic(id) {

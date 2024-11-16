@@ -1,3 +1,7 @@
+html {
+    --border-radius: 0.375rem;
+}
+
 body {
     background-color: #f5f6fa;
     font-family: "TTNormsPro",sans-serif;
@@ -8,6 +12,12 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1rem;
+
+    .results {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+    }
 }
 
 .search-box {
@@ -20,11 +30,43 @@ body {
     }
 }
 
+.document {
+    height: 60px;
+    text-decoration: none;
+
+    img {
+        height: 60px;
+        border: 1px solid #888;
+        border-radius: var(--border-radius);
+        float: left;
+        margin-right: 10px;
+    }
+
+    .doc-content {
+        line-height: 16px;
+        font-size: 14px;
+        word-wrap: break-word;
+
+        .doc-title {
+            font-weight: bolder;
+        }
+
+        .doc-institute {
+            font-style: italic;
+        }
+
+        :not(:first-child):before {
+            content: ', ';
+        }
+    }
+}
+
 .search-results {
     border: 1px solid black;
     border-radius: 4px;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
     padding: 1rem;
+    width: 500px;
 
     h5 {
         margin: 0 0 0.5rem 0;
@@ -33,5 +75,17 @@ body {
     ul {
         margin: 0;
         list-style-type: none;
+    }
+
+    .list {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+
+        .doc-wrapper {
+            flex: 1 1 auto;
+            width: 100%;
+            max-width: 500px;
+        }
     }
 }
