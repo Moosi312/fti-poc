@@ -40,14 +40,22 @@ export function displayDocsByType(type, docs, topics, expanded = false) {
 function getDocumentElement(doc, topics) {
     const relTop = doc['topicIds'].filter(t => topics.includes(t));
     return (
-        `<a href="docs/pdf/${doc['file']}" class="document">
-        <img src="/docs/img/${doc['file']}.png" alt="PDF"/>
-        <div class="doc-content">
-            <span class="doc-title">${doc['name']}</span>
-            <span class="doc-institute">Inst?</span>
-            <span>${doc['year']}</span>
-            <span>${relTop.join(', ')}</span>
-        </div>
-    </a>`
+        `<a href="docs/pdf/${doc['file']}" target="_blank" class="document">
+            <img src="/docs/img/${doc['file']}.png" alt="PDF"/>
+            <div class="doc-content">
+                <span class="doc-title">${doc['name']}</span>
+                <span class="doc-institute">Inst?</span>
+                <span>${doc['year']}</span>
+                <span class="topic-icons">${relTop.map(t => getTopicIcon(t)).join('')}</span>
+            </div>
+        </a>`
     );
+}
+
+function getTopicIcon(topic) {
+    return `
+        <span class="topic-icon">
+            <span>${topic}</span>
+        </span>
+    `
 }

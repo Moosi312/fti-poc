@@ -25,8 +25,10 @@ async function init() {
         .then(data => data.json());
     const sdg = await fetch('/data/sdg.json')
         .then(data => data.json());
+    const values = await fetch('/data/values.json')
+        .then(data => data.json());
 
-    search = new Search(labels,str, docs, edg, sdg);
+    search = new Search(labels,str, docs, edg, sdg, values);
 }
 
 window.onload = () => {

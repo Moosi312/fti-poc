@@ -12,16 +12,18 @@ export class Search {
     egds = [];
     sdgs = [];
 
-    constructor (labels, str, documents, egds, sdgs,) {
+    constructor (labels, str, documents, egds, sdgs, values) {
         this.documents = documents;
         this.egds = egds;
         this.sdgs = sdgs;
         this.loc = labels;
 
+        this.valuesMap = new Map(values.map(value => [value['id'], value]));
         this.indicatorToTopicMap = this.getIndicatorMap(str);
         this.validIndicators = Array.from(this.indicatorToTopicMap.keys());
         this.indicatorLocMap = this.getIndicatorLocMap(this.validIndicators, this.loc);
 
+        console.log("Values map", this.valuesMap);
         console.log("Valid Indicators", this.validIndicators);
         console.log("Indicator -> Topic[] map", this.indicatorToTopicMap);
         console.log("Localization", this.loc);
@@ -38,7 +40,7 @@ export class Search {
         console.log(id);
         if (this.validIndicators.includes(id)) {
             console.log("Search for value ", value, " (ID: ", id, ")");
-            displayAffectedTopics(id, this.indicatorToTopicMap, this.loc);
+            displayAffectedTopics(id, this.indicatorToTopicMap, this.loc, this.valuesMap);
             displayRelevantDocsByTopic(id, this.documents, this.indicatorToTopicMap);
             displayRelevantEDGByTopic(id, this.egds, this.indicatorToTopicMap);
             displayRelevantSDGByTopic(id, this.sdgs, this.indicatorToTopicMap);

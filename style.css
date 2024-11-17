@@ -7,6 +7,11 @@ body {
     font-family: "TTNormsPro",sans-serif;
 }
 
+a {
+    color: #222;
+    text-decoration: none;
+}
+
 .wrapper {
     margin: 2rem;
     display: flex;
@@ -22,11 +27,74 @@ body {
 
 .search-box {
     flex: 1;
-    max-width: 500px;
+    max-width: calc(500px + 0.8rem);
 
     input {
         width: 100%;
         border-radius: 4px;
+        background-color: transparent;
+        border: 1px solid black;
+        font-size: 20px;
+        padding: 0.3rem 0.6rem;
+    }
+}
+
+.topic-icons {
+    display: inline-flex;
+}
+
+.topic-icon {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #222;
+    color: white;
+    font-size: 10px;
+    margin-left: 5px;
+}
+
+.topic-icon.color-c1 {
+    background-color: #ea4b55;
+}
+
+.topic-icon.color-c2 {
+    background-color: #f59036;
+}
+
+.topic-icon.color-c3 {
+    background-color: #f9eb00;
+}
+
+.topic-icon.color-c4 {
+    background-color:  #afd24b;
+}
+
+.topic-icon.color-c5 {
+    background-color: #3caf55;
+}
+
+.topic-icon.color-c6 {
+    background-color: #f5f6fa;
+}
+
+.topic {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+
+    .topic-icon {
+        width: 2rem;
+        height: 2rem;
+        font-size: 1rem;
+    }
+
+    svg {
+        fill: black;
+        width: 1.5rem;
+        height: 1.5rem;
     }
 }
 
@@ -55,7 +123,7 @@ body {
             font-style: italic;
         }
 
-        :not(:first-child):before {
+        > :not(:first-child):before {
             content: ', ';
         }
     }
@@ -136,6 +204,10 @@ body {
     ul {
         margin: 0;
         list-style-type: none;
+    }
+
+    .list.rows {
+        flex-direction: row;
     }
 
     .list {
