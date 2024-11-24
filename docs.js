@@ -41,7 +41,7 @@ function getDocumentElement(doc, topics) {
     const relTop = doc['topicIds'].filter(t => topics.includes(t));
     return (
         `<a href="docs/pdf/${doc['file']}" target="_blank" class="document">
-            <img src="/docs/img/${doc['file']}.png" alt="PDF"/>
+            <img src="./docs/img/${doc['file']}.png" alt="PDF"/>
             <div class="doc-content">
                 <span class="doc-title">${doc['name']}</span>
                 <span class="doc-institute">Inst?</span>
