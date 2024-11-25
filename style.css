@@ -10,12 +10,40 @@ body {
 .wrapper {}
 
 .header {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1rem;
 
+    > h1 {
+        margin: 0;
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+
+        > a {
+            display: flex;
+        }
+    }
+
+    > h3 {
+        margin: 0;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.25rem;
+
+        > span {
+            border: 1px solid black;
+            border-radius: 999px;
+            padding: 0.25rem 0.5rem;
+        }
+    }
 }
 
 .items {
     display: flex;
     flex-wrap: wrap;
+    gap: 0.5rem;
 
     a {
         border: 1px solid black;
@@ -30,7 +58,7 @@ body {
 
         &:hover {
             box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
-            color: gray;
+            background-color: #eee;
         }
 
         h3 {
