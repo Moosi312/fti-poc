@@ -1,1 +1,4 @@
 .idea
+*/.venv
+
+text-search-docs/extracted-text
