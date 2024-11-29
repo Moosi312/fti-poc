@@ -1,0 +1,11 @@
+
+body {
+    background-color: #f5f6fa;
+    font-family: "TTNormsPro",sans-serif;
+}
+
+.gsc-control-cse {
+    background-color: #f5f6fa !important;
+    border: none !important;
+    max-width: 500px;
+}
