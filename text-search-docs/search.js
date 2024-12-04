@@ -1,14 +1,15 @@
-import {displayRelevantDocsByTopic, displayDocsByType} from "./docs.js";
+import {displayRelevantDocs, displayDocsByType} from "./docs.js";
 
 export class Search {
-    validIndicators = [];
+    validIndicators = new Set();
     loc = {};
     documents = [];
+    indicatorDocumentMap = {};
 
     constructor (labels, str, documents, indicatorDocumentMap) {
         this.documents = documents;
         this.loc = labels;
-        this.indicatorDocumentMaap = indicatorDocumentMap;
+        this.indicatorDocumentMap = indicatorDocumentMap;
 
         this.validIndicators = this.getValidIndicators(str);
         this.indicatorLocMap = this.getIndicatorLocMap(this.validIndicators, this.loc);
@@ -23,21 +24,22 @@ export class Search {
         let value = document.getElementById('indicator-search').value;
 
         const id = this.indicatorLocMap.get(value);
-        console.log(id);
-        if (this.validIndicators.includes(id)) {
+        if (this.validIndicators.has(id)) {
             console.log("Search for value ", value, " (ID: ", id, ")");
-            displayRelevantDocsByTopic(id, this.documents, this.indicatorToTopicMap);
+            displayRelevantDocs(id, this.documents, this.indicatorDocumentMap);
         }
     }
 
     onExpandDocs(type) {
         let value = document.getElementById('indicator-search').value;
         const id = this.indicatorLocMap.get(value);
-        const topics = this.indicatorToTopicMap.get(id);
-        const relDocs = this.documents
-            .filter(doc => doc['topicIds'].filter(t => topics.includes(t)).length && doc['type'] === type);
+        const docs = this.indicatorDocumentMap[id];
+        if (!docs) {
+            return;
+        }
+        const relDocs = docs.map(doc => this.documents.find(d => d['file'] === doc)).filter(doc => doc && doc['type'] === type);
         console.log("Found docs: ", relDocs);
-        displayDocsByType(type, relDocs, topics, true);
+        displayDocsByType(type, relDocs, true);
     }
 
     getValidIndicators(str) {

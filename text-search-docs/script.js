@@ -19,7 +19,7 @@ async function init() {
         .then(data => data.json());
     const docs = await fetch('../assets/data/docs.json')
         .then(data => data.json());
-    const indicatorDocMap = await fetch('../docs.json')
+    const indicatorDocMap = await fetch('./docs-by-indicator.json')
         .then(data => data.json());
     const str = await fetch('../assets/data/str.json')
         .then(data => data.json());
