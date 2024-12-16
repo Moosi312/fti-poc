@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>FTI - Document LLM search</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <script src="script.js" type="module"></script>
+</head>
+<body>
+<div class="wrapper">
+    <div class="search-box">
+        <input id="indicator-search" list="indicators-list" oninput="onSearch()"/>
+        <datalist id="indicators-list">
+        </datalist>
+    </div>
+    <div class="results">
+        <div class="search-results">
+            <h5>Ratsempfehlungen</h5>
+            <div id="doc-list-r" class="list">
+            </div>
+        </div>
+        <div class="search-results">
+            <h5>Stellungnahmen</h5>
+            <div id="doc-list-c" class="list">
+            </div>
+        </div>
+        <div class="search-results">
+            <h5>Auftragsstudien</h5>
+            <div id="doc-list-s" class="list">
+            </div>
+        </div>
+        <div class="search-results">
+            <h5>Broschüre (include?)</h5>
+            <div id="doc-list-m" class="list">
+            </div>
+        </div>
+        <div class="search-results">
+            <h5>Broschüre (include?)</h5>
+            <div id="doc-list-l" class="list">
+            </div>
+        </div>
+        <div class="search-results">
+            <h5>Analyse (include?)</h5>
+            <div id="doc-list-d" class="list">
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

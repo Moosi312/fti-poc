@@ -1,4 +1,6 @@
 .idea
 */.venv
+.env
 
 text-search-docs/extracted-text
+llm-search-docs/extracted-text

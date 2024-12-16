@@ -1,0 +1,5 @@
+path
+thefuzz
+pymupdf
+openai
+python-dotenv
