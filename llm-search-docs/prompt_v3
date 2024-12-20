@@ -1,0 +1,192 @@
+You will get a list of indicators.
+You will then get texts from  documents.
+For each of these documents find relevant indicators for the contents of the text.
+The filename will be listed in the first line of the text
+
+Provide your answer in the form of a json string with the format
+```
+["indicator_1", "indicator_2", ..., "indicator_n"]
+```
+
+Here is the list of indicators:
+Regulierung Arbeitsmarkt - individuell
+Regulierung Arbeitsmarkt - mehrfach
+Regulierung Arbeitsmarkt - befristet
+Produktmarktregulierung
+IPR-Regulierung
+Größe des Kapitalmarkts
+VC-Funds Finanzierungsstruktur
+Risikokapitalintensität
+Unternehmensbesteuerung
+Lohnabgaben
+Steuer- und Abgabenquote
+Bildungsausgaben in % des BIP
+Bildungsausgaben pro Schüler:in
+Schulleistungen - hohe Kompetenz
+Schulleistungen - niedrige Kompetenz
+Betreuung frühkindlich
+Betreuungsverhältnis frühkindlich
+Ausgaben pro Schüler:in (Primarbereich)
+Ausgaben relativ zum BIP - Primarstufe
+Betreuungsverhältnis Volksschule
+Volksschule - Spitze
+Volksschule - Niedrig
+Ausgaben pro Schüler:in (Sekundarbereich)
+Ausgaben relativ zum BIP - Sekundarstufe
+Schulleistungen Sekundarstufe - Spitze
+Schulleistungen Sekundarstufe - Niedrig
+PISA Geschlechterdifferenz Lesen
+PISA Leistungsdifferenz Herkunft
+PISA Geschlechterdifferenz Mathematik
+Bildungsvererbung
+Frühe Schulabgänger:innen
+Abschlussquote oberer Sekundarbereich
+Anteil berufsbezogene Absolvent:innen
+Weiterbildung & Lebenslanges Lernen
+Interesse an Wissenschaft
+Vertrauen in Wissenschaft
+Immigration Hochqualifizierte
+Internationale Ko-Publikationen
+Internationale Doktoratsstudent:innen
+Beteiligung von Hochschulen an EU-Forschungsprojekten
+Patente in Auslandsbesitz
+Ausländische Patente in Inlandsbesitz
+Patentanmeldungen mit in- und ausländischen Erfinder:innen
+Auslandsfinanzierung von F&E
+Wirtschaftliche Offenheit
+GVC-Integration (Wertschöpfung)
+GVC-Integration (Exporte)
+GVC-Integration (Importe)
+Hochschulausgaben
+Betreuungsverhältnis Universitäten
+Hochschulabsolvent:innen ISCED 5-8
+Hochschulabsolvent:innen ISCED 6-8
+MINT-Absolvent:innen ISCED 5-8
+MINT-Absolvent:innen ISCED 6-8
+Doktoratsabsolvent:innen MINT
+Zahl der Forscher:innen (HEI & GOV)
+F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung
+F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP
+Grundlagenforschungsquote
+Projektfinanzierte Grundlagenforschung
+Hochschulranking Forschungsleistung
+Zahl der Publikationen pro 1.000 Einwohner
+Qualität der Publikationen
+ERC Grants
+Erfolgsquote Hochschulen bei Horizon Europe
+Innovierende KMU
+Innovationsumsatz
+KMU und Kooperation
+F&E-Ausgaben (Unternehmenssektor)
+Innovierende Unternehmen
+Zahl der Unternehmensforscher:innen
+Industriestrukturbereinigte F&E-Intensität
+Unternehmen mit Innovationskooperationen
+Leidenranking - Kooperation mit Unternehmen
+Finanzierung von Hochschulen durch Unternehmen
+Erfolgsquote Unternehmen bei Horizon Europe
+Patentanmeldungen
+Triadische Patentanmeldungen
+Super-Patente
+Exportqualität
+Exportkomplexität
+Wissensintensität Export
+Innovationsintensive Branchen
+Beschäftigung in wissensintensiven Sektoren
+Innovationsintensiver Dienstleistungsexport
+Motivation für unternehmerisches Handeln
+Schnellwachsende Unternehmen
+Junge schnellwachsende Unternehmen
+Unicorn-Bewertung, % BIP
+F&E-Quote
+Privater Anteil an F&E-Finanzierung
+Öffentliche Finanzierung F&E
+Öffentliche Finanzierung HERD, in % des BIP
+Anteil öffentlicher Finanzierung an HERD
+Unternehmensförderung
+Direkte Unternehmensförderung
+Indirekte Unternehmensförderung
+Auslandsfinanzierung von Unternehmens-F&E
+IKT-Investitionen
+Breitband
+Glasfaser
+IKT-Basiskompetenzen
+IKT-Spezialist:innen
+IKT-Absolvent:innen
+IKT-Patente eng definiert
+IKT-Patente breit definiert
+E-Government
+Nutzung künstlicher Intelligenz
+Internet of Things
+Big Data-Analysen
+Cloud Computing
+KMU-Onlinehandel – international
+Industrie- und Serviceroboter
+IKT-Wertschöpfung
+IKT-Beschäftigung
+Wertschöpfungsanteil von IKT-Produktionsbranchen
+KMU-Onlinehandel – Umsatz
+F&E-Ausgaben im Umweltbereich (in % des BIP)
+F&E-Ausgaben im Umweltbereich (in % des GBAORD)
+F&E-Ausgaben im Energiebereich (in % des BIP)
+F&E-Ausgaben im Energiebereich (in % des GBAORD)
+Erfindungen Klima
+Solarkapazität
+Firmen mit ISO Environment-Zertifizierung
+Sauberer Primärenergieverbrauch
+Neuzulassungen von E-Autos
+Treibhausgase
+Exporte Umweltgüter
+Ressourcenproduktivität
+RTA kreislaufwirtschaftsrelevanter Patentanmeldungen mit inländischen Erfinder:innen
+RTA-Patentanmeldungen für unterstützende Grundlagentechnologien mit inländischen Erfinder:innen
+Pagerank (Kreislaufwirtschaft)
+Pagerank (unterstützende Grundlagentechnologien)
+Bruttoinvestitionen in % des BIP
+Beschäftigte in % der Beschäftigten insgesamt
+Bruttowertschöpfung in % des BIP
+Kreislaufwirtschaftsrelevante Exporte in % des BIP
+Recyclingrate
+Nutzungsrate wiederverwendbarer Stoffe
+Gesammelter Elektroschrott
+Batterierecycling
+Strom aus sauberen Quellen
+Politische Stabilität
+Qualität öffentlicher Leistungen
+Regulierungsqualität
+Rechtsstaatlichkeit
+MINT-Absolventinnen ISCED 5-8
+Absolventinnen in Naturwissenschaften
+Absolventinnen in Technik
+IKT-Absolventinnen
+Weibliche IKT-Fachkräfte
+Forscherinnen in Unternehmen
+Forscherinnen außerhalb Unternehmen
+Glasdeckenindex EU
+Anteil Patente - Produktionstechnologien
+Anteil Patente - Materialtechnologien
+Anteil Patente - Industrielle Biotechnologie
+Anteil Patente - Digitale Technologie
+Patente je Mio. Einwohner:innen - Produktionstechnologien
+Patente je Mio. Einwohner:innen - Materialtechnologien
+Patente je Mio. Einwohner:innen - Industrielle Biotechnologie
+Patente je Mio. Einwohner - Digitale Technologie
+Größter Importanteil - Produktionstechnologien
+Größter Importanteil - Materialtechnologien
+Größter Importanteil - Industrielle Biotechnologie
+Größter Importanteil - Digitale Technologie
+Exportspezialisierung - Produktionstechnologien
+Exportspezialisierung - Materialtechnologien
+Exportspezialisierung - Industrielle Biotechnologie
+Exportspezialisierung - Digitale Technologie
+EIS Index
+BIP/Kopf
+Erwerbstätigenquote
+Arbeitslosenquote
+Lebensqualität
+Jugendarbeitslosigkeit
+Gesunde Lebenserwartung (F)
+Gesunde Lebenserwartung (M)
+Energieintensität
+Zahl der Forscher:innen
+F&E Ausgaben (GERD)

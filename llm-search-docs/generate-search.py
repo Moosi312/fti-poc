@@ -11,13 +11,14 @@ from dotenv import load_dotenv
 from path import Path
 from openai import OpenAI
 
-USE_MODEL = 'gpt-4o'
+USE_MODEL = 'gpt-4o-mini'
 
 
 def main():
     docs = Path('../assets/docs/pdf')
     text_folder = Path('./extracted-text')
     prompt_input = Path('./prompt_v2')
+    query_input = Path('./prompt_v2')
     batches_file = Path('./batches.jsonl')
     prompt_output = Path('./indicators-for-docs.json')
     output = Path('./docs-by-indicator.json')
@@ -28,7 +29,8 @@ def main():
 
     # print_indicators(indicators)
     # extract_text(docs, text_folder)
-    prompt_batches(text_folder, prompt_input, batches_file, prompt_output)
+    # prompt_query(text_folder, query_input, prompt_output)
+    # prompt_batches(text_folder, prompt_input, batches_file, prompt_output)
     invert_map(prompt_output, output, indicators)
 
 
@@ -92,6 +94,36 @@ def get_batch_line(system_prompt: str, file: Path):
             },
         }
     }
+
+
+def prompt_query(text_folder: Path, prompt_input: Path, prompt_output: Path):
+    load_dotenv()
+    api_key = os.getenv('OPEN_AI_API_TOKEN')
+
+    client = OpenAI(
+        api_key=api_key,
+        project="proj_oR5I1XR4jtW2dcV6Um9QUbvZ"
+    )
+
+    with open(prompt_input, 'r') as f:
+        prompt = f.read()
+        output = {}
+
+    file_amount = len(text_folder.files())
+    for i, file in enumerate(text_folder.files()):
+        print(f"\r[{i:>3}/{file_amount:>3}] Prompting for doc {file.name.stripext()}", end='')
+        try:
+            indicators = make_query(client, prompt, file)
+        except Exception as e:
+            print(f"\r[ERROR] <{file.name.stripext()}.pdf> {e}")
+        else:
+            output.update(indicators)
+        sleep(15)
+
+    print(f"\r[{file_amount:>3}/{file_amount:>3}] Finished prompts")
+
+    with open(prompt_output, 'w') as f:
+        json.dump(output, f, indent=2, ensure_ascii=False)
 
 
 def prompt_batches(text_folder: Path, prompt_input: Path, batches_file: Path, prompt_output: Path):
@@ -165,12 +197,12 @@ def make_query(client: OpenAI, system_prompt: str, file: Path):
         model=USE_MODEL,
         messages=[
             {
-                "text": system_prompt,
+                "content": system_prompt,
                 "type": "text",
                 "role": "system",
             },
             {
-                "text": f"{file.stripext().name}.pdf\n{document}",
+                "content": f"{file.stripext().name}.pdf\n{document}",
                 "type": "text",
                 "role": "user",
             }
@@ -184,11 +216,10 @@ def make_query(client: OpenAI, system_prompt: str, file: Path):
         frequency_penalty=0,
         presence_penalty=0,
     )
-    print(response)
 
     data = json.loads(response.choices[0].message.content)
 
-    assert f"{file.stripext().name}.pdf" in data
+    # assert f"{file.stripext().name}.pdf" in data
 
     return data
 
@@ -202,6 +233,7 @@ def invert_map(map_input, output, indicator_map):
     for file, indicators in orig.items():
         for indicator in indicators:
             if indicator not in inverted_ind_map:
+                print(f"Indicator {indicator} not found")
                 continue
             ind_id = inverted_ind_map[indicator]
             if ind_id not in invert:
