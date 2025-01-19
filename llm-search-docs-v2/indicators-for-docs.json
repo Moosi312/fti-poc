@@ -1,0 +1,4704 @@
+{
+  "R240026.pdf": {
+    "indicators": [
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Innovierende KMU",
+      "Innovationsumsatz",
+      "Innovierende Unternehmen",
+      "Crowdfunding-Forschung",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Unternehmensförderung",
+      "Direkte Unternehmensförderung",
+      "Indirekte Unternehmensförderung",
+      "Energieintensität",
+      "Beteiligung von Hochschulen an EU-Forschungsprojekten",
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen",
+      "Regulatory- und Transparenzmaßnahmen",
+      "Politische Stabilität"
+    ]
+  },
+  "M300014.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Größe des Kapitalmarkts",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Betreuung frühkindlich",
+      "Betreuungsverhältnis frühkindlich",
+      "Frühe Schulabgänger:innen",
+      "Immigration Hochqualifizierte",
+      "Internationale Ko-Publikationen",
+      "Innovierende KMU",
+      "Innovationsumsatz",
+      "Zahl der Unternehmensforscher:innen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Grundlagenforschungsquote",
+      "Unternehmensförderung",
+      "Digitale öffentliche Dienstleistungen",
+      "Cloud Computing",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "Neuzulassungen von E-Autos",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "Forscherinnen in Unternehmen",
+      "Investitionsprämie",
+      "Öffentliche Finanzierung F&E",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Exit-Strategien für Unternehmen",
+      "Interesse an Wissenschaft",
+      "Cloud Services Adoption",
+      "Anteil Patente - Produktionstechnologien",
+      "Patente je Mio. Einwohner:innen - Produktionstechnologien"
+    ]
+  },
+  "M300015.pdf": {
+    "indicators": [
+      "Anteil Patente - Digitale Technologie",
+      "Technologiesouveränität",
+      "Wirtschaftliche Offenheit",
+      "Risikokapitalintensität",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Produktmarktregulierung",
+      "Energieintensität",
+      "Innovationsumsatz",
+      "Größe des Kapitalmarkts",
+      "Zahl der Publikationen pro 1.000 Einwohner"
+    ]
+  },
+  "C280014.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "IPR-Regulierung",
+      "Unternehmensbesteuerung",
+      "Öffentliche Finanzierung F&E",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Ausgaben pro Schüler:in (Sekundarbereich)"
+    ]
+  },
+  "D320038.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Privater Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung F&E",
+      "Finanzierung Hochschulen & GF",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Anteil öffentliche Finanzierung an HERD",
+      "Projektfinanzierte Grundlagenforschung",
+      "Finanzierung Unternehmen",
+      "Unternehmensförderung",
+      "Direkte Unternehmensförderung",
+      "Indirekte Unternehmensförderung",
+      "Auslandsfinanzierung von Unternehmens-F&E"
+    ]
+  },
+  "R240054.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Öffentliche Finanzierung F&E",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Forschungsförderung",
+      "F&E-Quote",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung"
+    ]
+  },
+  "R240070.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Hochschulausgaben",
+      "Unternehmensförderung",
+      "Direkte Unternehmensförderung",
+      "Indirekte Unternehmensförderung",
+      "Exporte Umweltgüter",
+      "Erhöhung der Hochschulausgabenquote und der kompetitiv vergebenen Mittel für die Grundlagenforschung",
+      "Optimierung der rechtlichen und finanziellen Rahmenbedingungen für Unternehmensgründungen",
+      "Motivation für unternehmerisches Handeln",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz"
+    ]
+  },
+  "S260040.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Bildungsausgaben in % des BIP",
+      "Lohnabgaben",
+      "Unternehmensbesteuerung",
+      "Steuer- und Abgabenquote",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Studierendenquote in Innovation",
+      "KMU und Kooperation",
+      "Motivation für unternehmerisches Handeln",
+      "Strategische Beschaffungspolitiken"
+    ]
+  },
+  "S260033.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Wissenschaftliche Publikationen",
+      "Patentierungen im internationalen Vergleich",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Wagnisfinanzierung",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Infra-, Forschungs- und Bildungseinrichtungen ",
+      "Risikokapitalintensität",
+      "Innovationen könnten die Unternehmensgröße beeinflussen"
+    ]
+  },
+  "R240004.pdf": {
+    "indicators": [
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen",
+      "Junge schnellwachsende Unternehmen",
+      "Unicorn-Bewertung, % BIP",
+      "Privater Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung F&E",
+      "F&E-Quote",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Innovierende KMU",
+      "Innovationsumsatz",
+      "Innovierende Unternehmen",
+      "Zahl der Unternehmensforscher:innen",
+      "Unternehmen mit Innovationskooperationen",
+      "Erfolgsquote Hochschulen bei Horizon Europe"
+    ]
+  },
+  "L100011.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Größe des Kapitalmarkts",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "Doktoratsabsolvent:innen MINT",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovierende KMU",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Patentanmeldungen",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "F&E-Ausgaben (GERD)",
+      "Ressourcenproduktivität",
+      "Kreislaufwirtschaftsrelevante Exporte in % des BIP",
+      "Qualität der Publikationen",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Betreuungsverhältnis frühkindlich",
+      "Frühkindliche Betreuung",
+      "Abschlussquote oberer Sekundarbereich",
+      "Bildungsvererbung"
+    ]
+  },
+  "D320034.pdf": {
+    "indicators": [
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "Internationale Doktoratsstudent:innen",
+      "Doktoratsabsolvent:innen MINT",
+      "Hochschulausgaben",
+      "Betreuungsverhältnis Universitäten"
+    ]
+  },
+  "S260054.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Größe des Kapitalmarkts",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Betreuung frühkindlich",
+      "Betreuungsverhältnis frühkindlich",
+      "Ausgaben pro Schüler:in (Primarbereich)",
+      "Ausgaben relativ zum BIP - Primarstufe",
+      "Betreuungsverhältnis Volksschule",
+      "Volksschule - Spitze",
+      "Volksschule - Niedrig",
+      "Ausgaben pro Schüler:in (Sekundarbereich)",
+      "Ausgaben relativ zum BIP - Sekundarstufe",
+      "Schulleistungen Sekundarstufe - Spitze",
+      "Schulleistungen Sekundarstufe - Niedrig",
+      "PISA Geschlechterdifferenz Lesen",
+      "PISA Leistungsdifferenz Herkunft",
+      "PISA Geschlechterdifferenz Mathematik",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Immigration Hochqualifizierte",
+      "Internationale Ko-Publikationen",
+      "Internationale Doktoratsstudent:innen",
+      "Beteiligung von Hochschulen an EU-Forschungsprojekten",
+      "Patente in Auslandsbesitz",
+      "Ausländische Patente in Inlandsbesitz",
+      "Patentanmeldungen mit in- und ausländischen Erfinder:innen",
+      "Auslandsfinanzierung von F&E",
+      "Wirtschaftliche Offenheit",
+      "GVC-Integration (Wertschöpfung)",
+      "GVC-Integration (Exporte)",
+      "GVC-Integration (Importe)",
+      "Hochschulausgaben",
+      "Betreuungsverhältnis Universitäten",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "Doktoratsabsolvent:innen MINT",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Grundlagenforschungsquote",
+      "Projektfinanzierte Grundlagenforschung",
+      "Hochschulranking Forschungsleistung",
+      "Zahl der Publikationen pro 1.000 Einwohner",
+      "Qualität der Publikationen",
+      "ERC Grants",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Innovierende KMU",
+      "Innovationsumsatz",
+      "KMU und Kooperation",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovierende Unternehmen",
+      "Zahl der Unternehmensforscher:innen",
+      "Industriestrukturbereinigte F&E-Intensität",
+      "Unternehmen mit Innovationskooperationen",
+      "Leidenranking - Kooperation mit Unternehmen",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Erfolgsquote Unternehmen bei Horizon Europe",
+      "Patentanmeldungen",
+      "Triadische Patentanmeldungen",
+      "Super-Patente",
+      "Exportqualität",
+      "Exportkomplexität",
+      "Wissensintensität Export",
+      "Innovationsintensive Branchen",
+      "Beschäftigung in wissensintensiven Sektoren",
+      "Innovationsintensiver Dienstleistungsexport",
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen",
+      "Junge schnellwachsende Unternehmen",
+      "Unicorn-Bewertung, % BIP",
+      "F&E-Quote",
+      "Privater Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung F&E",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Anteil öffentlicher Finanzierung an HERD",
+      "Unternehmensförderung",
+      "Direkte Unternehmensförderung",
+      "Indirekte Unternehmensförderung",
+      "Auslandsfinanzierung von Unternehmens-F&E",
+      "IKT-Investitionen",
+      "Breitband",
+      "Glasfaser",
+      "IKT-Basiskompetenzen",
+      "IKT-Spezialist:innen",
+      "IKT-Absolvent:innen",
+      "IKT-Patente eng definiert",
+      "IKT-Patente breit definiert",
+      "E-Government",
+      "Nutzung künstlicher Intelligenz",
+      "Internet of Things",
+      "Big Data-Analysen",
+      "Cloud Computing",
+      "KMU-Onlinehandel – international",
+      "Industrie- und Serviceroboter",
+      "IKT-Wertschöpfung",
+      "IKT-Beschäftigung",
+      "Wertschöpfungsanteil von IKT-Produktionsbranchen",
+      "KMU-Onlinehandel – Umsatz",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "F&E-Ausgaben im Umweltbereich (in % des GBAORD)",
+      "F&E-Ausgaben im Energiebereich (in % des BIP)",
+      "F&E-Ausgaben im Energiebereich (in % des GBAORD)",
+      "Erfindungen Klima",
+      "Solarkapazität",
+      "Firmen mit ISO Environment-Zertifizierung",
+      "Sauberer Primärenergieverbrauch",
+      "Neuzulassungen von E-Autos",
+      "Treibhausgase",
+      "Exporte Umweltgüter",
+      "Ressourcenproduktivität",
+      "RTA kreislaufwirtschaftsrelevanter Patentanmeldungen mit inländischen Erfinder:innen",
+      "RTA-Patentanmeldungen für unterstützende Grundlagentechnologien mit inländischen Erfinder:innen",
+      "Pagerank (Kreislaufwirtschaft)",
+      "Pagerank (unterstützende Grundlagentechnologien)",
+      "Bruttoinvestitionen in % des BIP",
+      "Beschäftigte in % der Beschäftigten insgesamt",
+      "Bruttowertschöpfung in % des BIP",
+      "Kreislaufwirtschaftsrelevante Exporte in % des BIP",
+      "Recyclingrate",
+      "Nutzungsrate wiederverwendbarer Stoffe",
+      "Gesammelter Elektroschrott",
+      "Batterierecycling",
+      "Strom aus sauberen Quellen",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "MINT-Absolventinnen ISCED 5-8",
+      "Absolventinnen in Naturwissenschaften",
+      "Absolventinnen in Technik",
+      "IKT-Absolventinnen",
+      "Weibliche IKT-Fachkräfte",
+      "Forscherinnen in Unternehmen",
+      "Forscherinnen außerhalb Unternehmen",
+      "Glasdeckenindex EU",
+      "Anteil Patente - Produktionstechnologien",
+      "Anteil Patente - Materialtechnologien",
+      "Anteil Patente - Industrielle Biotechnologie",
+      "Anteil Patente - Digitale Technologie",
+      "Patente je Mio. Einwohner:innen - Produktionstechnologien",
+      "Patente je Mio. Einwohner:innen - Materialtechnologien",
+      "Patente je Mio. Einwohner:innen - Industrielle Biotechnologie",
+      "Patente je Mio. Einwohner - Digitale Technologie",
+      "Größter Importanteil - Produktionstechnologien",
+      "Größter Importanteil - Materialtechnologien",
+      "Größter Importanteil - Industrielle Biotechnologie",
+      "Größter Importanteil - Digitale Technologie",
+      "Exportspezialisierung - Produktionstechnologien",
+      "Exportspezialisierung - Materialtechnologien",
+      "Exportspezialisierung - Industrielle Biotechnologie",
+      "Exportspezialisierung - Digitale Technologie",
+      "EIS Index",
+      "BIP/Kopf",
+      "Erwerbstätigenquote",
+      "Arbeitslosenquote",
+      "Lebensqualität",
+      "Jugendarbeitslosigkeit",
+      "Gesunde Lebenserwartung (F)",
+      "Gesunde Lebenserwartung (M)",
+      "Energieintensität",
+      "Zahl der Forscher:innen",
+      "F&E Ausgaben (GERD)"
+    ]
+  },
+  "R240034.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Hochschulausgaben",
+      "BIP/Kopf",
+      "Öffentliche Finanzierung F&E",
+      "Privater Anteil an F&E-Finanzierung",
+      "Innovationsindex",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "F&E-Ausgaben (GERD)"
+    ]
+  },
+  "WR400029.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Immigration Hochqualifizierte",
+      "Internationale Ko-Publikationen",
+      "Beteiligung von Hochschulen an EU-Forschungsprojekten",
+      "Wirtschaftliche Offenheit",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "MINT-Absolvent:innen ISCED 5-8"
+    ]
+  },
+  "C280028.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Internationales Ko-Publikationen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "EIS Index",
+      "BIP/Kopf",
+      "Erwerbstätigenquote",
+      "Lebensqualität",
+      "Gesunde Lebenserwartung (F)",
+      "Gesunde Lebenserwartung (M)"
+    ]
+  },
+  "R240056.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Quote",
+      "Wirtschaftliche Offenheit",
+      "Unternehmensförderung",
+      "Direkte Unternehmensförderung",
+      "Indirekte Unternehmensförderung",
+      "Innovierende Unternehmen",
+      "Zusammenarbeit mit Hochschulen und Forschungseinrichtungen",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "Motivation für unternehmerisches Handeln",
+      "Junge schnellwachsende Unternehmen",
+      "Super-Patente",
+      "Zahl der Publikationen pro 1.000 Einwohner",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Internationalisierung der F&E",
+      "Hochschulranking Forschungsleistung",
+      "Betreuungsverhältnis Universitäten",
+      "Quality of Public Services",
+      "Glasdeckenindex EU",
+      "Qualität der Regulierung"
+    ]
+  },
+  "R240035.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Öffentliche Finanzierung F&E",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Anteil öffentlicher Finanzierung an HERD",
+      "Innovierende KMU",
+      "KMU und Kooperation",
+      "Innovationsumsatz",
+      "Technologie-Internationalisierung österreichischer Frontrunner-Unternehmen",
+      "Produktmarkregulierung",
+      "Lohnabgaben",
+      "Unternehmensbesteuerung"
+    ]
+  },
+  "S260032.pdf": {
+    "indicators": [
+      "IPR-Regulierung",
+      "Innovierende Unternehmen",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Patentanmeldungen",
+      "MINT-Absolvent:innen ISCED 5-8"
+    ]
+  },
+  "L100015.pdf": {
+    "indicators": [
+      "Produktmarktregulierung",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Internationales Rätetreffen",
+      "Auslandsfinanzierung von F&E",
+      "Innovationen in der Kreislaufwirtschaft",
+      "Technologische Souveränität",
+      "Transformationschancen für Österreich im Bereich „Tech for Green”"
+    ]
+  },
+  "WR400037.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Hochschulranking Forschungsleistung",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Bildungsausgaben in % des BIP",
+      "Öffentliche Finanzierung F&E",
+      "Anteil öffentlicher Finanzierung an HERD",
+      "Akademische Freiheit",
+      "Erfolgsquote Hochschulen bei Horizon Europe"
+    ]
+  },
+  "S260061.pdf": {
+    "indicators": [
+      "RTA kreislaufwirtschaftsrelevanter Patentanmeldungen mit inländischen Erfinder:innen",
+      "RTA-Patentanmeldungen für unterstützende Grundlagentechnologien mit inländischen Erfinder:innen",
+      "Recyclingrate",
+      "Ressourcenproduktivität",
+      "Bruttowertschöpfung in % des BIP",
+      "Kreislaufwirtschaftsrelevante Exporte in % des BIP",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "F&E-Ausgaben im Umweltbereich (in % des GBAORD)"
+    ]
+  },
+  "R240047.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Hochschulausgaben",
+      "Betreuungsverhältnis Volksschule",
+      "Betreuungsverhältnis Universitäten",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Innovierende Unternehmen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Qualität öffentlicher Leistungen",
+      "E-Government",
+      "IKT-Investitionen",
+      "Digitalisierung"
+    ]
+  },
+  "S260062.pdf": {
+    "indicators": [
+      "Produktmarktregulierung",
+      "Kapitalmarktsgröße",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Energieintensität",
+      "Neuzulassungen von E-Autos",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "F&E-Ausgaben im Energiebereich (in % des BIP)",
+      "Recyclingrate",
+      "Ressourcenproduktivität"
+    ]
+  },
+  "S260030.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Interesse an Wissenschaft",
+      "Schulleistungen Sekundarstufe - Spitze",
+      "Schulleistungen Sekundarstufe - Niedrig",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Regulierungsqualität",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Jugendarbeitslosigkeit",
+      "Erwerbstätigenquote"
+    ]
+  },
+  "WR400036.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Lohnabgaben",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Unternehmensbesteuerung",
+      "Bildungsvererbung",
+      "Steuer- und Abgabenquote",
+      "Betreuungsverhältnis frühkindlich",
+      "Betreuungsverhältnis Volksschule",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Risikokapitalintensität",
+      "VC-Funds Finanzierungsstruktur",
+      "Motivation für unternehmerisches Handeln"
+    ]
+  },
+  "R240061.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Forschungsinfrastruktur-Aktionsplan 2014-2020",
+      "F&E Ausgaben (GERD)"
+    ]
+  },
+  "D320039.pdf": {
+    "indicators": [
+      "IKT Investitionen",
+      "Breitband",
+      "Glasfaser",
+      "IKT Basiskompetenzen",
+      "IKT-SpezialistInnen",
+      "IKT-AbsolventInnen",
+      "IKT Patente eng definiert",
+      "IKT Patente breit definiert",
+      "E-Government",
+      "Nutzung künstlicher Intelligenz",
+      "Internet of Things",
+      "Big Data Analysen",
+      "Cloud-Computing",
+      "KMU internationaler Onlinehandel",
+      "Industrie- und Serviceroboter",
+      "IKT Wertschöpfung",
+      "IKT Beschäftigung",
+      "Wertschöpfungsanteil von IKT-Produktionsbranchen",
+      "KMU Onlinehandel Umsatz"
+    ]
+  },
+  "M300017.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Schulleistungen - hohe Kompetenz",
+      "Unternehmensbesteuerung",
+      "Innovationenumsatz",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Wirtschaftliche Offenheit",
+      "Risikokapitalintensität",
+      "Betreuungsverhältnis frühkindlich",
+      "PISA Geschlechterdifferenz Mathematik",
+      "Glasdeckenindex EU",
+      "Gesunde Lebenserwartung (F)",
+      "Gesunde Lebenserwartung (M)",
+      "Politische Stabilität",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit"
+    ]
+  },
+  "R240027.pdf": {
+    "indicators": [
+      "Unternehmensförderung",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Größe des Kapitalmarkts",
+      "Gesundheitsausgaben in % des BIP",
+      "Öffentliche Finanzierung F&E",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovationsumsatz",
+      "Innovierende Unternehmen",
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen",
+      "Junge schnellwachsende Unternehmen"
+    ]
+  },
+  "L100012.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Größe des Kapitalmarkts",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Betreuung frühkindlich",
+      "Betreuungsverhältnis frühkindlich",
+      "Volksschule - Spitze",
+      "Volksschule - Niedrig",
+      "Ausgaben pro Schüler:in (Primarbereich)",
+      "Ausgaben relativ zum BIP - Primarstufe",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "Anteil Patente - Produktionstechnologien",
+      "Anteil Patente - Materialtechnologien",
+      "Anteil Patente - Industrielle Biotechnologie",
+      "Anteil Patente - Digitale Technologie",
+      "Größter Importanteil - Produktionstechnologien",
+      "Größter Importanteil - Materialtechnologien",
+      "Größter Importanteil - Industrielle Biotechnologie",
+      "Größter Importanteil - Digitale Technologie",
+      "Steuer- und Abgabenquote",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Grundlagenforschungsquote",
+      "Patentregistrierung",
+      "Internationale Kopublikationen",
+      "Forschungsfinanzierung von Unternehmen",
+      "Internationale Doktoratsstudierende",
+      "Technologie-Souveränität"
+    ]
+  },
+  "WR400021.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Wirtschaftliche Offenheit",
+      "Unternehmensbesteuerung",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulranking Forschungsleistung",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Forschungsintensive Sektoren",
+      "Innovierende KMU",
+      "Zahl der Publikationen pro 1.000 Einwohner",
+      "Qualität der Publikationen",
+      "Patente in Auslandsbesitz",
+      "Erwerbstätigenquote"
+    ]
+  },
+  "C280017.pdf": {
+    "indicators": [
+      "Hochschulausgaben",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "IMT-Absolvent:innen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Internationalisierung",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Anteil der Studierenden an Fachhochschulen",
+      "Einbindung von Gender und Diversity",
+      "Kooperationen",
+      "Zahl der Forscher:innen (HEI & GOV)"
+    ]
+  },
+  "M300007.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Betreuung frühkindlich",
+      "Betreuungsverhältnis frühkindlich",
+      "Bildungsausgaben pro Schüler:in",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Schulleistungen Sekundarstufe - Spitze",
+      "Schulleistungen Sekundarstufe - Niedrig",
+      "PISA Geschlechterdifferenz Lesen",
+      "PISA Leistungsdifferenz Herkunft",
+      "Frühe Bildungsanpassung",
+      "Schulabbrecherquote",
+      "Junge schnellwachsende Unternehmen",
+      "Motivation für unternehmerisches Handeln"
+    ]
+  },
+  "C280006.pdf": {
+    "indicators": [
+      "Unternehmensförderung",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Hochschulausgaben",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulranking Forschungsleistung",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Innovierende Unternehmen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Erfolgsquote Unternehmen bei Horizon Europe"
+    ]
+  },
+  "S260010.pdf": {
+    "indicators": [
+      "Internationale Ko-Publikationen",
+      "Beteiligung von Hochschulen an EU-Forschungsprojekten",
+      "Wirtschaftliche Offenheit",
+      "Größe des Kapitalmarkts",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Energieintensität",
+      "Ausgaben für Forschung und Entwicklung in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovierende Unternehmen",
+      "Patentanmeldungen",
+      "Patentanmeldungen mit in- und ausländischen Erfinder:innen",
+      "Wirtschaftliche Entwicklungskorrelationen",
+      "Vertrauen in Wissenschaft"
+    ]
+  },
+  "M300016.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Wirtschaftliche Offenheit",
+      "Innovationsumsatz",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Zahl der Publikationen pro 1.000 Einwohner",
+      "Datenqualität",
+      "Datenverfügbarkeit",
+      "Digitalisierung",
+      "Digitale öffentliche Dienstleistungen",
+      "Künstliche Intelligenz",
+      "Big Data-Analysen",
+      "Cloud Computing",
+      "Internationale Ko-Publikationen",
+      "Wissenschaftliche Kooperationsprojekte",
+      "Initiativen zur datenschutzkonformen Nutzung von Forschungsdaten"
+    ]
+  },
+  "WR400014.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Schulleistungen - hohe Kompetenz",
+      "Abschlussquote oberer Sekundarbereich",
+      "Betreuung frühkindlich",
+      "Frühe Schulabgänger:innen",
+      "Betreuungsverhältnis frühkindlich",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität"
+    ]
+  },
+  "C280027.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Unternehmensförderung",
+      "F&E-Quote",
+      "Privater Anteil an F&E-Finanzierung",
+      "Forschung für die Wirtschaft",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "Neuzulassungen von E-Autos",
+      "Erwerbstätigenquote"
+    ]
+  },
+  "R240011.pdf": {
+    "indicators": [
+      "Risikokapitalintensität",
+      "IPR-Regulierung",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Risikokapitalstärkung",
+      "Innovationen",
+      "F&E-Quote"
+    ]
+  },
+  "S260025.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "F&E-Ausgaben (GERD)",
+      "Öffentliche Finanzierung F&E",
+      "Private Finanzierung F&E",
+      "Forschungsprämie",
+      "Grundlagenforschungsquote",
+      "Hochschulquote",
+      "Hochschulausgaben pro Studierender"
+    ]
+  },
+  "C280005.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (GERD)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulranking Forschungsleistung",
+      "Innovationsumsatz",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "EIS Index",
+      "Wirtschaftliche Offenheit"
+    ]
+  },
+  "R240023.pdf": {
+    "indicators": [
+      "Risikokapitalstärkung",
+      "Stärkung des Beitrages des geistigen Eigentums zu Wachstum und Innovation",
+      "Stärkung des Innovationspotenzials durch ‚Open Innovation‘",
+      "Koordinierung und Abstimmung von regionalen und Bundes-FTI-Aktivitäten",
+      "Exzellenz in der Grundlagenforschung",
+      "Maßnahmen zur Stärkung des österreichischen Standortes für forschungsaktive Unternehmen",
+      "Forschung und Technologieinitiativen für den Industriestandort",
+      "Innovierende KMU",
+      "Innovationenumsatz",
+      "Unternehmen mit Innovationskooperationen"
+    ]
+  },
+  "C280025.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Innovationen und Forschung",
+      "Internationale Ko-Publikationen",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Steuer- und Abgabenquote",
+      "Unternehmensbesteuerung",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Interesse an Wissenschaft",
+      "Schulleistungen - hohe Kompetenz",
+      "Qualität öffentlicher Leistungen",
+      "Bildungsvererbung",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "Digitale Transformation",
+      "Motivation für unternehmerisches Handeln",
+      "Forschungsgestützte Politikberatung",
+      "Women in Science",
+      "Internationalisierung und Mobilität"
+    ]
+  },
+  "WR400039.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Betreuung frühkindlich",
+      "Betreuungsverhältnis frühkindlich",
+      "Betreuungsverhältnis Volksschule",
+      "Schulleistungen Sekundarstufe - Spitze",
+      "PISA Leistungsdifferenz Herkunft",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Hochschulausgaben",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "Erfindungen Klima",
+      "Strom aus sauberen Quellen"
+    ]
+  },
+  "WR400006.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "Bildungsausgaben in % des BIP",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Bildungsvererbung",
+      "Abschlussquote oberer Sekundarbereich",
+      "Wirtschaftliche Offenheit",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Innovierende KMU",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Forschung: Untersuchung, Entwicklung und Erschließung der Künste",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft"
+    ]
+  },
+  "C280011.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Betreuung frühkindlich",
+      "Bildungsvererbung",
+      "Frühe Schulabgänger:innen",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "Anteil nicht traditioneller Zugänge"
+    ]
+  },
+  "S260027.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Unternehmensbesteuerung",
+      "VC-Funds Finanzierungsstruktur",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovierende KMU",
+      "Innovationen",
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen",
+      "Wirtschaftliche Offenheit",
+      "F&E-Quote",
+      "Privater Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung F&E",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Anteil öffentlicher Finanzierung an HERD",
+      "Energieintensität",
+      "Gesunde Lebenserwartung (F)",
+      "Arbeitslosenquote"
+    ]
+  },
+  "R240051.pdf": {
+    "indicators": [
+      "IKT-Investitionen",
+      "IKT-Beschäftigung",
+      "Nutzung künstlicher Intelligenz",
+      "Internet of Things",
+      "E-Government",
+      "Cloud Computing",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Innovierende KMU",
+      "Innovationsumsatz",
+      "Lebensqualität",
+      "Frühe Schulabgänger:innen",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Hochschulausgaben",
+      "Interesse an Wissenschaft",
+      "Weiterbildung & Lebenslanges Lernen"
+    ]
+  },
+  "R240060.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Innovationen in der Grundlagenforschung",
+      "Forschungspartnerschaften - Industrienahe Dissertationen",
+      "Digitalisierung der Arbeitswelt",
+      "Stärkung des Wissenstransfers",
+      "Kooperation von Wissenschaft und Wirtschaft",
+      "Industrielle Technologien",
+      "Stärkung der nationalen Humanpotentialbasis",
+      "Frontrunner",
+      "Industrie 4.0"
+    ]
+  },
+  "WR400024.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Unternehmensbesteuerung",
+      "Wirtschaftliche Offenheit",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Innovationsintensive Branchen",
+      "Motivation für unternehmerisches Handeln",
+      "Beteiligung von Hochschulen an EU-Forschungsprojekten"
+    ]
+  },
+  "C280008.pdf": {
+    "indicators": [
+      "EIS Index",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulausgaben",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Innovationen im Hochschulsektor",
+      "Karrieremodelle für junge WissenschafterInnen",
+      "Vertrauen in Wissenschaft"
+    ]
+  },
+  "R240045.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Öffentliche Finanzierung von F&E-Ausgaben im Hochschulsektor (HERD) im internationalen Vergleich",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovierende KMU",
+      "KMU und Kooperation",
+      "Innovationenumsatz",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulranking Forschungsleistung",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Zahl der Forscher:innen"
+    ]
+  },
+  "S260019.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Innovationsumsatz",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "Patente in Auslandsbesitz",
+      "Risikokapitalintensität",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovationen in der Hochschulbildung",
+      "Kreislaufwirtschaftsrelevante Exporte in % des BIP",
+      "Exportqualität",
+      "Wirtschaftliche Offenheit"
+    ]
+  },
+  "WR400007.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Produktmarktregulierung",
+      "Unternehmensbesteuerung",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Hohe Kompetenz in der Wissenschaft",
+      "Motivation für unternehmerisches Handeln",
+      "Innovationstätigkeit in der Forschung"
+    ]
+  },
+  "WR400017.pdf": {
+    "indicators": [
+      "Unternehmensbesteuerung",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Ausgaben relativ zum BIP - Primarstufe",
+      "Schulleistungen - hohe Kompetenz",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Internationale Ko-Publikationen",
+      "Beteiligung von Hochschulen an EU-Forschungsprojekten",
+      "Patente in Auslandsbesitz",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Innovationen in der Lehre",
+      "Risikokapitalintensität",
+      "Qualität der Publikationen",
+      "Zahl der Forschungsprojekte",
+      "Öffentliche Finanzierung F&E"
+    ]
+  },
+  "R240030.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Größe des Kapitalmarkts",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Innovierende KMU",
+      "Innovationsumsatz",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Energieintensität",
+      "Erwerbstätigenquote",
+      "Unternehmensförderung",
+      "Direkte Unternehmensförderung",
+      "Indirekte Unternehmensförderung",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8"
+    ]
+  },
+  "C280003.pdf": {
+    "indicators": [
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (GERD)",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovative Unternehmen",
+      "Zahl der Unternehmensforscher:innen"
+    ]
+  },
+  "D320031.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Größe des Kapitalmarkts",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote"
+    ]
+  },
+  "R240059.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Innovationsumsatz",
+      "Innovierende Unternehmen",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Unternehmen mit Innovationskooperationen",
+      "Energienutzung",
+      "Energieintensität",
+      "Strom aus sauberen Quellen",
+      "Motivation für unternehmerisches Handeln",
+      "Zahl der Forscher:innen"
+    ]
+  },
+  "WR400020.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Bildungsbudgets",
+      "Forschungsintegration",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Drittmittel (komplexe Infrastrukturprojekte)",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "Politische Stabilität",
+      "Regulierungsqualität",
+      "Qualität der Regulierung und Intensität regulatorischer Eingriffe",
+      "Erfolgsquote Hochschulen bei Horizon Europe"
+    ]
+  },
+  "D320036.pdf": {
+    "indicators": [
+      "Innovierende KMUs",
+      "Innovationsumsatz",
+      "KMU und Kooperation",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovierende Unternehmen",
+      "Auslandsfinanzierung von F&E",
+      "Zahl der UnternehmensforscherInnen",
+      "Industriestrukturbereinigte F&E-Intensität",
+      "Unternehmen mit Innovationskooperationen",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Erfolgsquote Unternehmen Horizon Europe",
+      "Erfindungsperformance Unternehmen",
+      "Patentanmeldungen",
+      "Triadische Patentanmeldungen",
+      "Super-Patente",
+      "Exportqualität",
+      "Exportkomplexität",
+      "Wissensintensität Export",
+      "Innovationsintensive Branchen",
+      "Beschäftigung in wissensintensiven Sektoren",
+      "Innovationsintensiver Dienstleistungsexport"
+    ]
+  },
+  "WR400034.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Grundlagenforschungsquote",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Ausgaben (GERD)",
+      "ERC Grants",
+      "Forschungsförderung"
+    ]
+  },
+  "C280012.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensförderung",
+      "F&E-Quote",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Patentanmeldungen",
+      "Innovationsumsatz",
+      "Innovierende KMU",
+      "Nutzung künstlicher Intelligenz",
+      "Schaffung eines Österreichischen Private-Equity-Wachstumsfonds",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Wirtschaftliche Offenheit"
+    ]
+  },
+  "S260045.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Lohnabgaben",
+      "Bildungsausgaben in % des BIP",
+      "Schulleistungen - hohe Kompetenz",
+      "Wirtschaftliche Offenheit",
+      "Patentanmeldungen",
+      "Interpolierte Dienstleistungen",
+      "Internationalisierung der Hochschulen",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen"
+    ]
+  },
+  "S260039.pdf": {
+    "indicators": [
+      "Produktmarktregulierung",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Wirtschaftliche Offenheit",
+      "Social Impact Bonds",
+      "Frühe Schulabgänger:innen",
+      "Arbeitslosenquote",
+      "Innovierende Unternehmen",
+      "Frühkindliche Bildung"
+    ]
+  },
+  "R240073.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Private Finanzierung F&E",
+      "Unternehmensförderung",
+      "Innovationen",
+      "FTI-Initiativen",
+      "Zahl der Forscher:innen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Erwerbstätigenquote",
+      "Arbeitslosenquote",
+      "Lebensqualität",
+      "Fragilität der Forschungstätigkeit",
+      "Regulierungsqualität",
+      "Politische Stabilität"
+    ]
+  },
+  "D320040.pdf": {
+    "indicators": [
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "F&E-Ausgaben im Umweltbereich (in % des GBAORD)",
+      "F&E-Ausgaben im Energiebereich (in % des BIP)",
+      "F&E-Ausgaben im Energiebereich (in % des GBAORD)",
+      "Erfindungen Klima",
+      "Nutzung von Umweltinnovationen/instrumenten",
+      "Solarkapazität",
+      "Firmen mit ISO-Environment Zertifizierung",
+      "Wirkung von Umweltinnovationen/instrumenten",
+      "Treibhausgase",
+      "Exporte Umweltgüter",
+      "Ressourcenproduktivität"
+    ]
+  },
+  "R240052.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Risikokapitalstärkung",
+      "Stärkung der Forschungsinfrastruktur durch Initiativen",
+      "Koordinierung und Abstimmung von regionalen und Bundes-FTI-Aktivitäten",
+      "Stärkung der wettbewerblichen Förderung in der Grundlagen- und angewandten Forschung",
+      "Stärkung der nationalen Humanpotentialbasis"
+    ]
+  },
+  "WR400035.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Knowledge Transfer",
+      "Innovative Unternehmen",
+      "Forschungsinfrastruktur",
+      "Forschungsinfrastrukturförderung nach Disziplinen",
+      "Internationale Ko-Publikationen",
+      "Bildungsausgaben in % des BIP",
+      "Förderprogramme",
+      "Internationale Doktoratsstudent:innen"
+    ]
+  },
+  "R240008.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "Unternehmensbesteuerung",
+      "Steuer- und Abgabenquote",
+      "Kapitalmarktgröße",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Öffentliche Finanzierung F&E",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Anteil öffentlicher Finanzierung an HERD",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "EIS Index",
+      "BIP/Kopf",
+      "Erwerbstätigenquote",
+      "Arbeitslosenquote",
+      "Lebensqualität",
+      "F&E Ausgaben (GERD)"
+    ]
+  },
+  "R240006.pdf": {
+    "indicators": [
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Profile der Hochschulen",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Rechtsstaatlichkeit"
+    ]
+  },
+  "WR400016.pdf": {
+    "indicators": [
+      "Hochschulausgaben",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Projektfinanzierte Grundlagenforschung",
+      "Hochschulranking Forschungsleistung",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Unternehmensförderung"
+    ]
+  },
+  "WR400011.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Produktmarktregulierung",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Schulleistungen - hohe Kompetenz",
+      "Frühe Schulabgänger:innen",
+      "Betreuungsverhältnis frühkindlich",
+      "Internationale Ko-Publikationen",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Qualität der Publikationen",
+      "Zahl der Publikationen pro 1.000 Einwohner"
+    ]
+  },
+  "WR400010.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Bildungsausgaben in % des BIP",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Betreuung frühkindlich",
+      "Betreuungsverhältnis frühkindlich",
+      "Bildungsvererbung",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Bildungsausgaben pro Schüler:in",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft"
+    ]
+  },
+  "WR400015.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "Forschung Hochschule & außeruniversitär",
+      "Hochschulausgaben",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Hochschulranking Forschungsleistung",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Internationale Ko-Publikationen",
+      "Wirtschaftliche Offenheit",
+      "Betreuung frühkindlich"
+    ]
+  },
+  "R240058.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "PR oder F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Basisindikatoren und Wettbewerbsindikatoren in Lehre und Forschung",
+      "Indikatoren zur Finanzierung der Hochschulforschung",
+      "Kostendeckung für Drittmittel",
+      "Forschungsinfrastruktur",
+      "Wissenschaft und Forschung",
+      "Universitäten und Grundlagenforschung",
+      "Kompetitive Finanzierung für Grundlagenforschung"
+    ]
+  },
+  "R240041.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Wissenschaftsfonds FWF",
+      "Hochschulausgaben",
+      "Forschungsquote",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Produktmarktregulierung",
+      "Lohnabgaben",
+      "Wirtschaftliche Offenheit",
+      "Erwerbstätigenquote"
+    ]
+  },
+  "S260004.pdf": {
+    "indicators": [
+      "VC-Funds Finanzierungsstruktur",
+      "Unternehmensbesteuerung",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Frühe Schulabgänger:innen",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "IPR-Regulierung",
+      "Größe des Kapitalmarkts",
+      "Effektive durchschnittliche Steuersätze, Nicht-Finanzsektor, (in %)"
+    ]
+  },
+  "S260007.pdf": {
+    "indicators": [
+      "Patentanmeldungen",
+      "Zitationsgewichtete Anzahl der Patentanmeldungen",
+      "Relativer Spezialisierungsindex",
+      "Geografischer Konzentrationsindex der Patentaktivitäten",
+      "Durchschnittliche Anzahl der Zitationen pro Patent",
+      "Anzahl triadischer Patente",
+      "Technologische Bedeutung der Patente",
+      "Internationale Kooperation in Erfindungen",
+      "Technologiedistanz zwischen Patenten",
+      "Geografische Verteilung der Zitationen",
+      "Anteil ausländischer Eigentümer an Patenten",
+      "Konzentrationsindex der Patentaktivitäten"
+    ]
+  },
+  "D320032.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Betreuung frühkindlich",
+      "Betreuungsverhältnis frühkindlich",
+      "Ausgaben pro Schüler:in (Primarbereich)",
+      "Ausgaben relativ zum BIP - Primarstufe",
+      "Betreuungsverhältnis Volksschule",
+      "Volksschule - Spitze",
+      "Volksschule - Niedrig",
+      "Math & Science VS - Spitze",
+      "Math & Science VS - Mittel",
+      "Math & Science VS - Niedrig",
+      "Sekundarstufe",
+      "Ausgaben pro Schüler:in (Sekundarbereich)",
+      "Ausgaben relativ zum BIP - Sekundarstufe",
+      "Schulleistungen Sekundarstufe - Spitze",
+      "Schulleistungen Sekundarstufe - Niedrig",
+      "PISA Lesen - Spitze",
+      "PISA Lesen - Niedrig",
+      "PISA Mathematik - Spitze",
+      "PISA Mathematik - Niedrig",
+      "PISA Geschlechterdifferenz Lesen",
+      "Bildungsvererbung 1",
+      "Bildungsvererbung 2",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Weiterbildung & Lebenslanges Lernen"
+    ]
+  },
+  "S260066.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - befristet",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Größe des Kapitalmarkts",
+      "Bildungsausgaben in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Forschung & Entwicklung in % des BIP",
+      "Patente in Auslandsbesitz",
+      "Internationale Ko-Publikationen",
+      "Innovationen in den energieintensiven Industrien",
+      "Öffentliche Finanzierung F&E",
+      "Unternehmensbesteuerung"
+    ]
+  },
+  "C280004.pdf": {
+    "indicators": [
+      "Unternehmensförderung",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Ausgaben relativ zum BIP - Sekundarstufe",
+      "Hochschulausgaben",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "Energieintensität",
+      "Lebensqualität"
+    ]
+  },
+  "D320044.pdf": {
+    "indicators": [
+      "EIS Index",
+      "BIP/Kopf",
+      "Erwerbstätigenquote",
+      "Arbeitslosenquote",
+      "Lebensqualität",
+      "Jugendarbeitslosigkeit",
+      "Gesunde Lebenserwartung (F)",
+      "Gesunde Lebenserwartung (M)",
+      "Treibhausgase",
+      "Energieintensität",
+      "Ressourcenproduktivität"
+    ]
+  },
+  "L100014.pdf": {
+    "indicators": [
+      "Produktmarktregulierung",
+      "Größe des Kapitalmarkts",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovierende Unternehmen",
+      "Innovationenumsatz",
+      "Innovierende KMU",
+      "Industriestrukturbereinigte F&E-Intensität",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Patentanmeldungen",
+      "Triadische Patentanmeldungen",
+      "Auslandsfinanzierung von F&E",
+      "Forschungsausgaben im Umweltbereich (in % des BIP)",
+      "Neuzulassungen von E-Autos",
+      "Treibhausgase",
+      "Bip/Kopf",
+      "Erwerbstätigenquote"
+    ]
+  },
+  "R240057.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "Innovationenumsatz",
+      "Neu gegründete Unternehmen",
+      "Bruttoinvestitionen in % des BIP",
+      "Breitband",
+      "Erwerbstätigenquote",
+      "Patentquote",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "Exportqualität",
+      "Exportkomplexität",
+      "Marktkonzentration in der Forschung",
+      "Nutzung künstlicher Intelligenz",
+      "Internet of Things"
+    ]
+  },
+  "R240049.pdf": {
+    "indicators": [
+      "F&E-Ausgaben im Hochschulsektor (HERD) in % des BIP",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Innovationsumsatz",
+      "Innovierende KMU",
+      "Unternehmensförderung",
+      "Öffentliche Finanzierung F&E",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Forschungsgruppen (FG)",
+      "Venture Capital Initiative (VCI)",
+      "Patentanmeldungen"
+    ]
+  },
+  "R240077.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Internationalen Ko-Publikationen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Unternehmensförderung",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Innovationumsatz",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach"
+    ]
+  },
+  "M300008.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Betreuung frühkindlich",
+      "Betreuungsverhältnis frühkindlich",
+      "Ausgaben pro Schüler:in (Primarbereich)",
+      "Unternehmensbesteuerung",
+      "Betreuungsverhältnis Volksschule",
+      "Schulleistungen Sekundarstufe - Spitze",
+      "Schulleistungen Sekundarstufe - Niedrig",
+      "PISA Geschlechterdifferenz Lesen",
+      "PISA Leistungsdifferenz Herkunft",
+      "PISA Geschlechterdifferenz Mathematik",
+      "Volkswirtschaftliche Sparquote",
+      "Erwerbstätigenquote",
+      "Jugendarbeitslosigkeit"
+    ]
+  },
+  "S260035.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Frühe Schulabgänger:innen",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Betreuung frühkindlich",
+      "Betreuungsverhältnis frühkindlich",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "Lohnabgaben",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Jugendarbeitslosigkeit",
+      "Erwerbstätigenquote"
+    ]
+  },
+  "R240076.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Innovationsumsatz",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Kreislaufwirtschaftsrelevante Exporte in % des BIP",
+      "Betreuung frühkindlich",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "Regionalen und Bundes-FTI-Aktivitäten",
+      "Wirtschaftliche Offenheit",
+      "Größe des Kapitalmarkts",
+      "Risikokapitalintensität"
+    ]
+  },
+  "R240055.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Größe des Kapitalmarkts",
+      "Innovationen",
+      "Unternehmen mit Innovationskooperationen",
+      "Innovierende Unternehmen",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen",
+      "Junge schnellwachsende Unternehmen",
+      "Unicorn-Bewertung, % BIP",
+      "F&E-Quote",
+      "Privater Anteil an F&E-Finanzierung",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "Zahl der Unternehmensforscher:innen",
+      "IKT-Investitionen",
+      "IKT-Beschäftigung",
+      "E-Government",
+      "Finanzierung von Unternehmens-F&E"
+    ]
+  },
+  "S260029.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Größe des Kapitalmarkts",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Innovationen durch Innovationsökosysteme",
+      "Innovierende KMU",
+      "Innovationsumsatz",
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen",
+      "Unicorn-Bewertung, % BIP",
+      "F&E-Quote",
+      "Privater Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung F&E"
+    ]
+  },
+  "R240018.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Innovation Leaders",
+      "Entwicklungsdynamik des IUS",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Erfolgsquote Hochschulen bei Horizon Europe"
+    ]
+  },
+  "WR400019.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "IPR-Regulierung",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "Unternehmensbesteuerung",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Betreuungsverhältnis frühkindlich",
+      "Frühe Schulabgänger:innen",
+      "Beratung & Ausbildungsangebote für medizinisches Personal"
+    ]
+  },
+  "R000002EN.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (GERD)",
+      "Wirtschaftliche Offenheit",
+      "Internationale Ko-Publikationen",
+      "Innovationen für nachhaltige Entwicklung",
+      "Forschung und Entwicklung in den Bereichen Klimaschutz, Digitalisierung",
+      "Kapitalmarktfunktionalität",
+      "Internationale Doktoratsstudent:innen"
+    ]
+  },
+  "C280021.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "IPR-Regulierung",
+      "Bildungsausgaben in % des BIP",
+      "Betreuung frühkindlich",
+      "Studiengänge zur Weiterentwicklung von Bildungseinrichtungen",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulranking Forschungsleistung",
+      "Innovierende KMU",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Qualität öffentlicher Leistungen",
+      "Politische Stabilität",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Zahl der Forscher:innen (HEI & GOV)"
+    ]
+  },
+  "S260008.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Öffentliche Finanzierung F&E",
+      "Private Finanzierung zur Zielerreichung 2020",
+      "Forschungsquotenziele 2020",
+      "Hochschulquotenziel",
+      "Grundlagenforschungsquote"
+    ]
+  },
+  "R240046.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Studierende pro 1000 EW",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Diversifikation der Studienangebote",
+      "Anteil berufsbegleitender Studiengänge",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Finanzierung von Hochschulen durch Unternehmen"
+    ]
+  },
+  "C000001.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Quote",
+      "EIS Index",
+      "Öffentliche Finanzierung F&E",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Anteil öffentlicher Finanzierung an HERD",
+      "Privater Anteil an F&E-Finanzierung",
+      "Innovationenumsatz",
+      "Innovierende KMU"
+    ]
+  },
+  "S260046.pdf": {
+    "indicators": [
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen",
+      "Junge schnellwachsende Unternehmen",
+      "Innovierende Unternehmen",
+      "Unternehmensförderung"
+    ]
+  },
+  "L100013.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Größe des Kapitalmarkts",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Betreuung frühkindlich",
+      "Ausgaben relativ zum BIP - Primarstufe",
+      "Frühe Schulabgänger:innen",
+      "Schulleistungen Sekundarstufe - Spitze",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "Innovationen in der Kreislaufwirtschaft",
+      "Ausgaben für Forschung und Entwicklung in % des BIP",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "Innovationen in der Kreislaufwirtschaft",
+      "F&E-Ausgaben im Energiebereich (in % des BIP)",
+      "Ressourcenproduktivität"
+    ]
+  },
+  "S260044.pdf": {
+    "indicators": [
+      "Produktmarktregulierung",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Steuer- und Abgabenquote",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet"
+    ]
+  },
+  "R240017.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Öffentliche Finanzierung an HERD"
+    ]
+  },
+  "M300010.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Unternehmensbesteuerung",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Betreuung frühkindlich",
+      "Frühe Schulabgänger:innen",
+      "Innovierende KMU",
+      "Innovationsumsatz",
+      "Innovierende Unternehmen",
+      "Zahl der Unternehmensforscher:innen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Privater Anteil an F&E-Finanzierung",
+      "Energieintensität",
+      "Exportqualität",
+      "BEC-Integration (Wertschöpfung)",
+      "Motivation für unternehmerisches Handeln",
+      "Zahl der Forscher:innen",
+      "Weiterbildung & Lebenslanges Lernen"
+    ]
+  },
+  "R240065.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Private Finanzierung F&E",
+      "Innovationsumsatz",
+      "Innovierende Unternehmen",
+      "IKT-Beschäftigung",
+      "IKT-Investitionen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Forschungsfinanzierungsdatenbank"
+    ]
+  },
+  "S260042.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "F&E-Ausgaben (GERD)",
+      "F&E-Ausgaben (HERD&GOVERD)",
+      "F&E-Ausgaben (BERD)",
+      "Zahl der Forscher:innen",
+      "Zahl der Unternehmensforscher:innen",
+      "Patentanmeldungen (EPA)",
+      "Triadische Patentanmeldungen",
+      "Zahl der Publikationen",
+      "Qualität der Publikationen",
+      "Innovationsausgaben (ohne F&E)",
+      "KMUs mit Innovationen",
+      "Umsatzanteil Innovationen",
+      "Innovationsintensive Branchen",
+      "Wissensintensität Export",
+      "Exportqualität",
+      "Exportkomplexität"
+    ]
+  },
+  "D320037.pdf": {
+    "indicators": [
+      "Risikokapitalintensität",
+      "VC-Funds Finanzierungsstruktur",
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen"
+    ]
+  },
+  "S260011.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "Innovierende Unternehmen",
+      "Industriestrukturbereinigte F&E-Intensität",
+      "Wirtschaftliche Offenheit"
+    ]
+  },
+  "D320033.pdf": {
+    "indicators": [
+      "Internationale Verflechtung",
+      "Immigration Hochqualifizierte",
+      "Internationale Kopublikationen",
+      "Internationale Doktoratsstudierende",
+      "Beteiligung von Hochschulen an EU-Forschungsprojekten",
+      "Patente in Auslandsbesitz",
+      "Ausländische Patente in Inlandsbesitz",
+      "Patentanmeldungen mit in- und ausländischen ErfinderInnen",
+      "Auslandsfinanzierung von F&E",
+      "Wirtschaftliche Offenheit",
+      "GVC Integration (Wertschöpfung)",
+      "GVC Integration (Exporte)",
+      "GVC Integration (Importe)"
+    ]
+  },
+  "WR400026.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Studienplatzfinanzierung und Studienzulassung neu regeln",
+      "Grundlagenforschung stärken",
+      "Exzellenzprogramme mit Hilfe des FWF ausbauen",
+      "Internationalisierung im Exzellenzsinne vorantreiben",
+      "Hochschulförmigkeit der Pädagogischen Hochschulen sichern",
+      "Governancestrukturen verändern, neue Partizipationsformen schaffen",
+      "Infrastrukturengpässe beheben, kooperative Nutzungsformen fördern"
+    ]
+  },
+  "WR400003.pdf": {
+    "indicators": [
+      "IPR-Regulierung",
+      "Bildungsausgaben in % des BIP",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Frühe Schulabgänger:innen",
+      "Berufungen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Bibliometrische Analyse",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Patente in Auslandsbesitz"
+    ]
+  },
+  "R240025.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Produktmarktregulierung",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Hochschulausgaben",
+      "Zahl der Forscher:innen",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "Energieintensität",
+      "Erwerbstätigenquote",
+      "Gesunde Lebenserwartung (F)",
+      "Gesunde Lebenserwartung (M)"
+    ]
+  },
+  "R240014.pdf": {
+    "indicators": [
+      "Öffentliche Finanzierung F&E",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Anteil öffentlicher Finanzierung an HERD",
+      "EIS Index"
+    ]
+  },
+  "S260024.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Unternehmensbesteuerung",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Interesse an Wissenschaft"
+    ]
+  },
+  "R240044.pdf": {
+    "indicators": []
+  },
+  "R240048.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Privater Anteil an F&E-Finanzierung",
+      "Innovative Unternehmensgründungen",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Unternehmensförderung",
+      "Risikokapitalintensität",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Unternehmen mit Innovationskooperationen",
+      "Direkte Unternehmensförderung",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Anteil Patente - Digitale Technologie",
+      "Anteil Patente - Produktionstechnologien",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Größe des Kapitalmarkts"
+    ]
+  },
+  "S260015.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Größe des Kapitalmarkts",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote"
+    ]
+  },
+  "R240064.pdf": {
+    "indicators": [
+      "Wirtschaftliche Offenheit",
+      "Internationale Ko-Publikationen",
+      "Beteiligung von Hochschulen an EU-Forschungsprojekten",
+      "Digitalisierung in der Fertigungsindustrie",
+      "Digitalisierung",
+      "IKT-Wertschöpfung",
+      "Innovationen",
+      "Innovation",
+      "E-Government",
+      "Digitale Plattformen",
+      "IKT-Investitionen",
+      "Cloud Computing",
+      "Nutzung künstlicher Intelligenz",
+      "Internet of Things",
+      "Big Data-Analysen",
+      "KMU-Onlinehandel – Umsatz"
+    ]
+  },
+  "R240071.pdf": {
+    "indicators": [
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen",
+      "Junge schnellwachsende Unternehmen",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Innovationsumsatz",
+      "Innovierende Unternehmen",
+      "Unternehmen mit Innovationskooperationen"
+    ]
+  },
+  "R000002.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Grundlagenforschungsquote",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Zahl der Unternehmensforscher:innen",
+      "F&E-Quote",
+      "Innovationen und Forschung",
+      "Risikokapitalintensität",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Internationale Ko-Publikationen"
+    ]
+  },
+  "R240075.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Öffentliche Finanzierung F&E",
+      "F&E-Quote",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "Große der Kapitalmarkts",
+      "Unternehmensförderung",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "Lebensqualität",
+      "BIP/Kopf"
+    ]
+  },
+  "C280010.pdf": {
+    "indicators": [
+      "Innovierende Unternehmen",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Wirtschaftliche Offenheit",
+      "Internationale Ko-Publikationen",
+      "Beteiligung von Hochschulen an EU-Forschungsprojekten"
+    ]
+  },
+  "R240033.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Private Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung F&E",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Innovationsumsatz",
+      "Risikokapitalstärkung",
+      "Erfolgsquote Hochschulen bei Horizon Europe"
+    ]
+  },
+  "R240074.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (GERD)",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Öffentliche Finanzierung F&E",
+      "F&E-Quote",
+      "BIP/Kopf",
+      "Erwerbstätigenquote"
+    ]
+  },
+  "R240043.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Quote",
+      "EIS Index",
+      "Arbeitslosenquote",
+      "Energieintensität",
+      "Wirtschaftliche Offenheit",
+      "Regulierungsqualität",
+      "Erfolgsquote Hochschulen bei Horizon Europe"
+    ]
+  },
+  "WR400025.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Produktmarktregulierung",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Personalentwicklung",
+      "Kooperation und Wettbewerb",
+      "Investitionen in Forschung",
+      "PISA Geschlechterdifferenz Lesen"
+    ]
+  },
+  "S260013.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "F&E-Ausgaben",
+      "Bundesfinanzierung",
+      "Forschungsprämie",
+      "Grundlagenforschungsquote",
+      "Hochschulquote",
+      "Finanzierungsstruktur",
+      "Wachstum der F&E-Ausgaben"
+    ]
+  },
+  "S260065.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "Größe des Kapitalmarkts",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "F&E-Quote",
+      "Unternehmensbesteuerung",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Betreuung frühkindlich",
+      "Betreuungsverhältnis frühkindlich",
+      "Ausgaben pro Schüler:in (Primarbereich)",
+      "Anteil berufsbezogene Absolvent:innen",
+      "IT-Ausgaben",
+      "Industrie- und Serviceroboter"
+    ]
+  },
+  "R240012.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Anteil öffentlicher Finanzierung an HERD",
+      "Unternehmensförderung",
+      "Privater Anteil an F&E-Finanzierung",
+      "Vertrauen in Wissenschaft",
+      "Innovationenumsatz",
+      "Motivation für unternehmerisches Handeln",
+      "Junge schnellwachsende Unternehmen",
+      "Interesse an Wissenschaft",
+      "Zahl der Forscher:innen",
+      "Internationalisierung von Hochschulen"
+    ]
+  },
+  "S260051.pdf": {
+    "indicators": [
+      "IKT-Investitionen",
+      "Wirtschaftliche Offenheit",
+      "Innovationen Umsatz",
+      "Innovierende Unternehmen",
+      "Innovation Umsatz"
+    ]
+  },
+  "R240032.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Öffentliche Finanzierung F&E",
+      "F&E-Ausgaben (GERD)",
+      "Unternehmensförderung",
+      "Innovierende KMU",
+      "Gründung / Ausbau International Research Center for Open Innovation in Science",
+      "Forschungspartnerschaften – Industrienahe Dissertationen",
+      "Venture Capital Initiative (VCI)",
+      "Spin-off & Start-up-Initiative im Rahmen des GIN",
+      "ÖAW - Matching Funds zur Unterstützung von jungen ForscherInnen und Frauen"
+    ]
+  },
+  "S260001.pdf": {
+    "indicators": [
+      "IPR-Regulierung",
+      "Produktmarktregulierung",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Bildungsausgaben in % des BIP",
+      "Betreuung frühkindlich",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Patentanmeldungen mit in- und ausländischen Erfinder:innen",
+      "Wirtschaftliche Offenheit",
+      "Innovierende KMU",
+      "Internationale Ko-Publikationen",
+      "Hochschulabsolvent:innen ISCED 5-8"
+    ]
+  },
+  "C280024.pdf": {
+    "indicators": [
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Produktmarktregulierung",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Unternehmensbesteuerung",
+      "Steuer- und Abgabenquote",
+      "Größe des Kapitalmarkts",
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen",
+      "Junge schnellwachsende Unternehmen",
+      "Unicorn-Bewertung, % BIP",
+      "Unternehmensförderung",
+      "Direkte Unternehmensförderung",
+      "Indirekte Unternehmensförderung"
+    ]
+  },
+  "S260036.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Unternehmensförderung",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierungsqualität",
+      "Innovationsumsatz",
+      "Innovierende Unternehmen",
+      "Wirtschaftliche Offenheit",
+      "Steuer- und Abgabenquote"
+    ]
+  },
+  "R240020.pdf": {
+    "indicators": [
+      "Risikokapitalintensität",
+      "VC-Funds Finanzierungsstruktur",
+      "Größe des Kapitalmarkts",
+      "Unternehmensförderung",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach"
+    ]
+  },
+  "WR400033.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Produktmarktregulierung",
+      "Bildungsausgaben in % des BIP",
+      "Schulleistungen - hohe Kompetenz",
+      "Lohnabgaben",
+      "Unternehmensbesteuerung",
+      "Privater Anteil an F&E-Finanzierung",
+      "Wirtschaftliche Offenheit",
+      "Energieintensität",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Zahl der Forscher:innen",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "Neuzulassungen von E-Autos",
+      "Forschung Förderquote"
+    ]
+  },
+  "R240029.pdf": {
+    "indicators": [
+      "F&E Infrastrukturförderung",
+      "Komplexitätsforschung",
+      "Unterstützung von Gründungsinitiativen",
+      "Spin off & Start-Up - Initiative",
+      "Open Science Infrastruktur",
+      "Implementierung eines virtuellen internationalen Inkubators"
+    ]
+  },
+  "C280019.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Ausgaben pro Schüler:in (Sekundarbereich)",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "Forschungsinfrastruktur",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Steigerung der kompetitiven Forschungsförderung",
+      "Interesse an Wissenschaft",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Erwerbstätigenquote",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Zahl der Publikationen pro 1.000 Einwohner",
+      "Leidenranking - Kooperation mit Unternehmen"
+    ]
+  },
+  "C280016.pdf": {
+    "indicators": [
+      "Bildungsausgaben relativ zum BIP - Primarstufe",
+      "Bildungsausgaben relativ zum BIP - Sekundarstufe",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Schulleistungen - hohe Kompetenz",
+      "Studierendenquote Hochschulen",
+      "Finanzierung der Lehre",
+      "Finanzierung der Forschung"
+    ]
+  },
+  "S260012.pdf": {
+    "indicators": [
+      "Interesse an Wissenschaft",
+      "Wissenschaftsvermittlung",
+      "Genderrelevanz in der Wissenschaft",
+      "Teilnahme und Engagement von Kindern",
+      "Vielfalt in der Wissenschaft",
+      "Reflexion über stereotype Bilder von Wissenschaftler:innen",
+      "Ziele der Wissenschaftskommunikation"
+    ]
+  },
+  "R240007.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Betreuungsverhältnis frühkindlich",
+      "Frühe Schulabgänger:innen",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Wir schaffen den Zugang zu Forschungsdaten und Publikationsinfrastruktur",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Erwerbstätigenquote",
+      "Jugendarbeitslosigkeit",
+      "Reduzierung von Treibhausgasen",
+      "Win-Win-Situation für das Bildungssystem"
+    ]
+  },
+  "R240042.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Innovative Unternehmen",
+      "Innovationsumsatz",
+      "Innovationen",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Erfolgsquote Unternehmen bei Horizon Europe",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "F&E-Quote",
+      "Privater Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung F&E"
+    ]
+  },
+  "M300013.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Größe des Kapitalmarkts",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Beteiligung von Hochschulen an EU-Forschungsprojekten",
+      "International Doktoratsstudent:innen"
+    ]
+  },
+  "D320041.pdf": {
+    "indicators": [
+      "RTA kreislaufwirtschaftsrelevanter Patentanmeldungen mit inländischen ErfinderInnen",
+      "RTA Patentanmeldungen für unterstützende Grundlagentechnologien mit inländischen ErfinderInnen",
+      "Pagerank (Kreislaufwirtschaft)",
+      "Pagerank (unterstützende Grundlagentechnologien)",
+      "Bruttoinvestitionen in % des BIP",
+      "Beschäftigte in % der Beschäftigten insgesamt",
+      "Bruttowertschöpfung in % des BIP",
+      "Kreislaufwirtschaftsrelevante Exporte in % des BIP",
+      "Recyclingrate",
+      "Nutzungsrate wiederverwendbarer Stoffe"
+    ]
+  },
+  "S260038.pdf": {
+    "indicators": [
+      "Wirtschaftliche Offenheit",
+      "GVC-Integration (Wertschöpfung)",
+      "GVC-Integration (Exporte)",
+      "GVC-Integration (Importe)",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Bildungsausgaben in % des BIP",
+      "Schulleistungen - hohe Kompetenz",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Regulierungsqualität",
+      "Politische Stabilität",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Unternehmensbesteuerung",
+      "Innovierende KMU",
+      "Innovative Unternehmen",
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Ressourcenproduktivität",
+      "Recyclingrate"
+    ]
+  },
+  "C280015.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Hochschulausgaben",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Kumulierte Mehrausgaben, die für die Jahre 2016-2020 notwendig wären",
+      "Forschungsausgaben",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Unternehmensförderung",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Rechtsstaatlichkeit",
+      "Regulierungsqualität",
+      "Politische Stabilität"
+    ]
+  },
+  "D320045.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektor Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Zahl der ForscherInnen (HEI&GOV)",
+      "Hochschulranking Forschungsleistung",
+      "Zahl der Publikationen pro 1.000 Einwohner",
+      "Qualität der Publikationen",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Zahl der UnternehmensforscherInnen",
+      "Patentanmeldungen",
+      "Triadische Patentanmeldungen",
+      "F&E Ausgaben (GERD)",
+      "HochschulabsolventInnen ISCED 5-8",
+      "Innovationsumsatz",
+      "Innovationsintensive Branchen",
+      "Wissensintensität Export",
+      "Exportkomplexität",
+      "Exportqualität",
+      "Gazellen"
+    ]
+  },
+  "S260028.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Betreuung frühkindlich",
+      "Mobilität von WissenschafterInnen und Studierenden",
+      "IPR-Regulierung",
+      "Produktmarktregulierung",
+      "Internationalisierung der Hochschulbildung",
+      "Internationale Ko-Publikationen",
+      "Internationale Doktoratsstudent:innen",
+      "Beteiligung von Hochschulen an EU-Forschungsprojekten",
+      "Ausländische Patente in Inlandsbesitz",
+      "Patente in Auslandsbesitz"
+    ]
+  },
+  "S260063.pdf": {
+    "indicators": [
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Unternehmensförderung",
+      "Indirekte Unternehmensförderung",
+      "Öffentliche Finanzierung F&E",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "Energieintensität",
+      "Ausgaben pro Schüler:in (Sekundarbereich)",
+      "Vertrauen in Wissenschaft",
+      "Motivation für unternehmerisches Handeln",
+      "Frühe Schulabgänger:innen",
+      "Bildungsausgaben in % des BIP",
+      "Innovierende KMU",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Innovationsumsatz",
+      "KMU und Kooperation"
+    ]
+  },
+  "S260053.pdf": {
+    "indicators": [
+      "Datenkompetenzen",
+      "Datenmanagement",
+      "Open Data",
+      "Interdisziplinarität",
+      "Dateninfrastrukturen",
+      "Artificial Intelligence"
+    ]
+  },
+  "S260058.pdf": {
+    "indicators": [
+      "Produktmarktregulierung",
+      "FC-Integration (Wertschöpfung)",
+      "EIS Index",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "Bildungsausgaben in % des BIP"
+    ]
+  },
+  "S260022.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Betreuung frühkindlich",
+      "Betreuungsverhältnis frühkindlich",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Immigration Hochqualifizierte",
+      "Internationale Ko-Publikationen",
+      "Internationale Doktoratsstudent:innen",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Erfolgsquote Unternehmen bei Horizon Europe",
+      "Zahl der Forscher:innen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Wirtschaftliche Offenheit",
+      "Innovierende KMU",
+      "Innovationsumsatz",
+      "Junge schnellwachsende Unternehmen",
+      "Schnellwachsende Unternehmen",
+      "Unicorn-Bewertung, % BIP",
+      "F&E-Quote",
+      "Ausgaben für Forschung und Entwicklung im Hochschulsektor (HERD)",
+      "Publicationsenpreis pro 1.000 Einwohner",
+      "Technologie- und Innovationsindikatoren",
+      "Exportqualität",
+      "Ressourcenproduktivität",
+      "Bildungsabgaben in % des BIP",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)"
+    ]
+  },
+  "WR400038.pdf": {
+    "indicators": [
+      "Internationale Ko-Publikationen",
+      "Beteiligung von Hochschulen an EU-Forschungsprojekten",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Wirtschaftliche Offenheit",
+      "Erwerbstätigenquote",
+      "Arbeitslosenquote",
+      "Schulleistungen - hohe Kompetenz",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität"
+    ]
+  },
+  "D320035.pdf": {
+    "indicators": [
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektor Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Ausgaben (Sektor Staat und Hochschule) in % des BIP",
+      "Grundlagenforschungsquote",
+      "Projektfinanzierte Grundlagenforschung",
+      "Hochschulranking Forschungsleistung",
+      "Zahl der Publikationen pro 1.000 Einwohner",
+      "Qualität der Publikationen",
+      "ERC Grants",
+      "Internationale Ko-Publikationen",
+      "Erfolgsquote Hochschule bei Horizon Europe"
+    ]
+  },
+  "S260031.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Private Finanzierung F&E",
+      "F&E-Ausgaben (in % des BIP)",
+      "Grundlagenforschungsquote",
+      "Hochschulquote",
+      "F&E-Gesamtausgaben",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Wirtschaftliche Offenheit"
+    ]
+  },
+  "R240040.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (GERD)",
+      "Innovationen",
+      "Wirtschaftliche Offenheit",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Qualität der Publikationen",
+      "ERC Grants"
+    ]
+  },
+  "R000003.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Innovationsdruck",
+      "Energieintensität",
+      "Erwerbstätigenquote",
+      "Internationale Ko-Publikationen",
+      "Öffentliche Finanzierung F&E",
+      "Steuer- und Abgabenquote",
+      "Wirtschaftliche Offenheit",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "Innovierende KMU",
+      "KMU und Kooperation",
+      "Patentanmeldungen"
+    ]
+  },
+  "D320042.pdf": {
+    "indicators": [
+      "Unternehmensförderung",
+      "Unternehmensbesteuerung",
+      "IPR-Regulierung",
+      "Qualität der Publikationen",
+      "MINT-AbsolventInnen",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit"
+    ]
+  },
+  "R240021.pdf": {
+    "indicators": [
+      "Immigration Hochqualifizierte",
+      "Internationale Ko-Publikationen",
+      "Internationale Doktoratsstudent:innen",
+      "Beteiligung von Hochschulen an EU-Forschungsprojekten",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Internationalisierungsstrategie FTI",
+      "Wirtschaftliche Offenheit"
+    ]
+  },
+  "M300002.pdf": {
+    "indicators": [
+      "Internationale Ko-Publikationen",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Projektfinanzierte Grundlagenforschung",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Schulleistungen - hohe Kompetenz",
+      "Bildungsvererbung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Unternehmensbesteuerung",
+      "F&E-Quote",
+      "Privater Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung F&E",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Anteil öffentlicher Finanzierung an HERD",
+      "Immigration Hochqualifizierte",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "Zahl der Publikationen pro 1.000 Einwohner"
+    ]
+  },
+  "WR400032.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Ausgaben pro Schüler:in (Primarbereich)",
+      "Karrierechancen für den akademischen Nachwuchs in Österreich",
+      "Nachwuchs- und Personalpolitik an Österreichs Universitäten",
+      "Wissenschaftliche Karriere und Partizipation",
+      "Zahl der Forscher:innen (HEI & GOV)"
+    ]
+  },
+  "S260006.pdf": {
+    "indicators": [
+      "Hochschulausgaben",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "F&E-Ausgaben im Energiebereich (in % des BIP)",
+      "F&E-Quote",
+      "Privater Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung F&E",
+      "Erwerbstätigenquote",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Steuer- und Abgabenquote",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit"
+    ]
+  },
+  "WR400022.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Unternehmensbesteuerung",
+      "Steuer- und Abgabenquote",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovationen und ihre Bedeutung für das Wirtschaftswachstum",
+      "Bildungsausgaben in % des BIP",
+      "Erfolg bei internationalen Vergleichen von Hochschulen",
+      "Drittmittelakquise",
+      "Exzellenz in der Forschung und Lehre",
+      "Einfluss von Rankings auf die Wahrnehmung von Wissenschaftsleistungen",
+      "Internationalität von Forschungsinstitutionen",
+      "Unterstützung des wissenschaftlichen Nachwuchses",
+      "Forschungsinfrastruktur und deren Bedeutung für Exzellenz"
+    ]
+  },
+  "S260049.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Innovierende Unternehmen",
+      "Innovationsumsatz",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovationsintensive Branchen",
+      "Stärkung des female Entrepreneurship",
+      "Zahl der Unternehmensforscher:innen",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP"
+    ]
+  },
+  "S260005.pdf": {
+    "indicators": [
+      "Unternehmensförderung",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Innovierende Unternehmen",
+      "Innovierende KMU",
+      "Start-ups",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Erfolgsquote Unternehmen bei Horizon Europe",
+      "Innovationsumsatz",
+      "Motivation für unternehmerisches Handeln"
+    ]
+  },
+  "S260059.pdf": {
+    "indicators": [
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovierende Unternehmen",
+      "Zahl der Unternehmensforscher:innen",
+      "Energieintensität",
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Indirekte Unternehmensförderung",
+      "Digitale Innovation",
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen"
+    ]
+  },
+  "R240031.pdf": {
+    "indicators": [
+      "Öffentliche Finanzierung F&E",
+      "Hochschulausgaben",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Grundlagenforschungsquote",
+      "Hochschule - Finanzierung",
+      "F&E-Ausgaben (Sektor Hochschule) pro 1.000 der Bevölkerung",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Ausgaben relativ zum BIP - Sekundarstufe",
+      "Betreuungsverhältnis Volksschule",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Innovationen",
+      "Unternehmensförderung"
+    ]
+  },
+  "R240022.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E Ausgaben (GERD)",
+      "Patentanmeldungen",
+      "F&E-Quote",
+      "Erwerbstätigenquote",
+      "Arbeitslosenquote",
+      "Lebensqualität",
+      "Gesunde Lebenserwartung (F)",
+      "Gesunde Lebenserwartung (M)",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "Versorgungssicherheit"
+    ]
+  },
+  "C280001.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "F&E-Quote",
+      "Bildungsausgaben in % des BIP",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil öffentlicher Finanzierung an HERD",
+      "Finanzierung von Hochschulen durch Unternehmen"
+    ]
+  },
+  "WR400002.pdf": {
+    "indicators": [
+      "ERC-Grants",
+      "Internationale Ko-Publikationen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Forschungsleistungen",
+      "Studierendenzahlen",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "Anteil von Personen mit Hochschulabschlüssen",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "Betreuungsverhältnis frühkindlich",
+      "Frühe Schulabgänger:innen",
+      "Ausgaben pro Schüler:in (Primarbereich)",
+      "Ausgaben relativ zum BIP - Primarstufe",
+      "Bildungsausgaben in % des BIP",
+      "Wirtschaftliche Offenheit",
+      "Steuer- und Abgabenquote"
+    ]
+  },
+  "M300018.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Quote",
+      "Privater Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung F&E",
+      "Innovierende KMU",
+      "Technologieoffensive",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Internationale Doktoratsstudent:innen",
+      "Internationale Ko-Publikationen",
+      "Wirtschaftliche Offenheit",
+      "Innovationsumsatz",
+      "Kreislaufwirtschaftsrelevante Exporte in % des BIP",
+      "Neuzulassungen von E-Autos",
+      "Motivation für unternehmerisches Handeln",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "Unternehmensbesteuerung"
+    ]
+  },
+  "M300012.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Innovierende KMU",
+      "F&E-Quote",
+      "Öffentliche Finanzierung von F&E-Ausgaben im Hochschulsektor (HERD) im % des BIP",
+      "Innovationsumsatz",
+      "KMU und Kooperation",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Anteil an MINT-Absolvent:innen",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Maßnahmen zur Steigerung der Effizienz der Forschungsförderung"
+    ]
+  },
+  "R240015.pdf": {
+    "indicators": [
+      "Unternehmensförderung",
+      "Wirtschaftliche Offenheit",
+      "Wissensintensität Export",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Innovative Unternehmen",
+      "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovationenumsatz",
+      "Motivation für unternehmerisches Handeln",
+      "Junge schnellwachsende Unternehmen",
+      "Innovationsintensive Branchen",
+      "Unternehmen mit Innovationskooperationen",
+      "Innovative Dienstleistungen"
+    ]
+  },
+  "S260067.pdf": {
+    "indicators": [
+      "IPR-Regulierung",
+      "Produktmarktregulierung",
+      "Größe des Kapitalmarkts",
+      "Steuer- und Abgabenquote",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Öffentliche Finanzierung F&E",
+      "Bildungsausgaben in % des BIP",
+      "Unternehmensförderung",
+      "F&E-Quote",
+      "Privater Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen"
+    ]
+  },
+  "S260021.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Immigration Hochqualifizierte",
+      "Internationale Ko-Publikationen",
+      "Internationale Doktoratsstudent:innen",
+      "Beteiligung von Hochschulen an EU-Forschungsprojekten",
+      "Bildungsvererbung"
+    ]
+  },
+  "R240069.pdf": {
+    "indicators": [
+      "IPR-Regulierung",
+      "Wirtschaftliche Offenheit",
+      "Unternehmensbesteuerung",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Einrichtungen mit Innovationskooperationen",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Innovationsumsatz",
+      "Innovierende Unternehmen",
+      "KMU und Kooperation",
+      "Zahl der Unternehmensforscher:innen",
+      "Zeichenvorschriften zur Förderung des geistigen Eigentums"
+    ]
+  },
+  "S260064.pdf": {
+    "indicators": [
+      "Technologische Souveränität",
+      "Anteil Patente - Produktionstechnologien",
+      "Anteil Patente - Materialtechnologien",
+      "Anteil Patente - Digitale Technologie",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Kapitalmarktgröße",
+      "Frühe Schulabgänger:innen",
+      "Öffentliche Finanzierung F&E",
+      "Steuer- und Abgabenquote"
+    ]
+  },
+  "R240028.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Finanzierungsbedarf",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulranking Forschungsleistung",
+      "Betreuungsverhältnis Universitäten",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Zahl der Forscher:innen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Forschungsausgaben in % des BIP"
+    ]
+  },
+  "R240019.pdf": {
+    "indicators": [
+      "IPR-Regulierung",
+      "Risikokapitalstärkung",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Größe des Kapitalmarkts",
+      "F&E-Quote",
+      "Unternehmensförderung",
+      "Forschung und Technologieinitiativen für den Industriestandort",
+      "Exzellenz in der Grundlagenforschung",
+      "Stärkung der nationalen Humanpotentialbasis"
+    ]
+  },
+  "R240050.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Betreuungsverhältnis frühkindlich",
+      "Ausgaben pro Schüler:in (Primarbereich)",
+      "Ausgaben relativ zum BIP - Primarstufe",
+      "Ausgaben pro Schüler:in (Sekundarbereich)",
+      "Ausgaben relativ zum BIP - Sekundarstufe",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "Unternehmensbesteuerung",
+      "F&E-Quote",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Auslandsfinanzierung von F&E",
+      "Innovierende Unternehmen",
+      "Motivation für unternehmerisches Handeln",
+      "Unternehmensförderung",
+      "Public Private Partnerships",
+      "Hochschulranking Forschungsleistung"
+    ]
+  },
+  "WR400028.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Betreuungsverhältnis frühkindlich",
+      "Betreuung frühkindlich",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Schulleistungen Sekundarstufe - Spitze",
+      "Schulleistungen Sekundarstufe - Niedrig",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Berufsbildende PädagogInnen mit nicht-tertiärer Fachausbildung"
+    ]
+  },
+  "WR400013.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Politische Stabilität",
+      "Regulierungsqualität",
+      "Unternehmensbesteuerung",
+      "Innovative Unternehmen",
+      "Interesse an Wissenschaft",
+      "Bildungsausgaben in % des BIP",
+      "Wirtschaftliche Offenheit",
+      "Bildungsvererbung",
+      "Qualität öffentlicher Leistungen",
+      "Schulleistungen - hohe Kompetenz"
+    ]
+  },
+  "WR400031.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "IPR-Regulierung",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Betreuung frühkindlich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Immigration Hochqualifizierte",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Basiskompetenzen IKT",
+      "Innovationen im Gesundheitswesen",
+      "Wirtschaftliche Offenheit",
+      "Gesunde Lebenserwartung (F)",
+      "Gesunde Lebenserwartung (M)"
+    ]
+  },
+  "C280020.pdf": {
+    "indicators": [
+      "IPR-Regulierung",
+      "Internationale Ko-Publikationen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Risikokapitalintensität",
+      "Innovationen",
+      "Unternehmensförderung",
+      "Politische Stabilität",
+      "Regulierungsqualität"
+    ]
+  },
+  "R240002.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Öffentliche Finanzierung F&E",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Privater Anteil an F&E-Finanzierung",
+      "F&E-Quote",
+      "Innovationstätigkeit und -umsatz im Unternehmenssektor",
+      "Rechtsstaatlichkeit",
+      "Unternehmensförderung",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Regulierung Zusammenarbeit zwischen Hochschulen und Unternehmen",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Zahl der Publikationen pro 1.000 Einwohner",
+      "Ausgaben im Umweltbereich (in % des BIP)"
+    ]
+  },
+  "S260047.pdf": {
+    "indicators": [
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Unternehmensbesteuerung",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Wirtschaftliche Offenheit",
+      "Bildungsvererbung",
+      "Innovation, Trade and Finance",
+      "Motivation für unternehmerisches Handeln"
+    ]
+  },
+  "WR400027.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Lohnabgaben",
+      "Unternehmensbesteuerung",
+      "Frühkindliche Betreuung",
+      "PISA Leistungsdifferenz Herkunft",
+      "PISA Geschlechterdifferenz Lesen",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - individuell"
+    ]
+  },
+  "R240001.pdf": {
+    "indicators": [
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (GERD)",
+      "Forschung Hochschule & außeruniversitär"
+    ]
+  },
+  "WR400030.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Schulleistungen - hohe Kompetenz",
+      "Anteil der Patienten pro Ärztin/Arzt",
+      "Gesunde Lebenserwartung (F)",
+      "Gesunde Lebenserwartung (M)",
+      "Erwerbstätigenquote",
+      "Arbeitslosenquote",
+      "Bildungsvererbung",
+      "Interesse an Wissenschaft",
+      "Frühzeitige Schul- und Ausbildungsabgänger:innen",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Vertrauen in Wissenschaft",
+      "Politische Stabilität",
+      "Regulierungsqualität",
+      "Gesundheitsausgaben als Anteil am BIP"
+    ]
+  },
+  "R000001.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Forschungsinfrastruktur",
+      "Innovationsumsatz",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Initiativen für das Innovationsökosystem/Prototypen",
+      "Ausbildung von Doktorand:innen und Postdocs",
+      "Unterstützung von Gründungen/Spin-off-Vorhaben",
+      "Klinische Forschung",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Förderung – Zuschuss für MINT-Projekte in MINT-Regionen",
+      "Erfolgreiche Zusammenarbeit zwischen Hochschulen und Unternehmen"
+    ]
+  },
+  "C280029.pdf": {
+    "indicators": [
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Gründungen",
+      "Unternehmensbesteuerung",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Regulierungsqualität",
+      "Unternehmensförderung",
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen"
+    ]
+  },
+  "S260056.pdf": {
+    "indicators": [
+      "IPR-Regulierung",
+      "Innovierende KMU",
+      "Innovationsumsatz",
+      "Wirtschaftliche Offenheit",
+      "Exportkomplexität",
+      "Motivation für unternehmerisches Handeln",
+      "Unternehmensförderung",
+      "EIS Index",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Patentanmeldungen",
+      "Erfolgsquote Hochschulen bei Horizon Europe"
+    ]
+  },
+  "M300011.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Lohnabgaben",
+      "Unternehmensbesteuerung",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Betreuung frühkindlich",
+      "Volksschule - Spitze",
+      "PISA Geschlechterdifferenz Lesen",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Innovierende Unternehmen",
+      "Zahl der Unternehmensforscher:innen",
+      "Erfolgsquote Unternehmen bei Horizon Europe",
+      "Patentanmeldungen",
+      "Digitalisierung",
+      "IKT-Beschäftigung",
+      "E-Government",
+      "Nutzung künstlicher Intelligenz",
+      "Big Data-Analysen",
+      "Cloud Computing",
+      "Industrie- und Serviceroboter"
+    ]
+  },
+  "WR400018.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Betreuung frühkindlich",
+      "Schulleistungen Sekundarstufe - Spitze",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Studienplatzbewirtschaftung"
+    ]
+  },
+  "R240081.pdf": {
+    "indicators": [
+      "Innovierende Unternehmen",
+      "Innovationsumsatz",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Motivation für unternehmerisches Handeln",
+      "F&E-Quote"
+    ]
+  },
+  "WR400008.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Öffentliche Finanzierung F&E",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Anteil öffentlicher Finanzierung an HERD",
+      "Unternehmensförderung",
+      "Direkte Unternehmensförderung",
+      "Indirekte Unternehmensförderung",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Wirtschaftliche Offenheit",
+      "F&E-Quote"
+    ]
+  },
+  "S260037.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Innovierende KMU",
+      "Innovationsumsatz",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "F&E-Quote",
+      "Unternehmensförderung",
+      "IKT-Investitionen",
+      "Breitband",
+      "Cloud Computing",
+      "Industrie- und Serviceroboter",
+      "Exporte Umweltgüter",
+      "Ressourcenproduktivität",
+      "Treibhausgase",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Glasdeckenindex EU",
+      "MINT-Absolventinnen ISCED 5-8",
+      "Forscherinnen in Unternehmen",
+      "Forscherinnen außerhalb Unternehmen"
+    ]
+  },
+  "R240080.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Hochschulausgaben",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Zahl der Publikationen pro 1.000 Einwohner",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovierende Unternehmen",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Innovierende KMU",
+      "EIS Index"
+    ]
+  },
+  "S260041.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Öffentliche Finanzierung F&E",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Grundlagenforschungsquote",
+      "Hochschulquote",
+      "Hochschulausgaben"
+    ]
+  },
+  "R240003.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Unternehmensförderung",
+      "Direkte Unternehmensförderung",
+      "Indirekte Unternehmensförderung",
+      "Bildungsausgaben in % des BIP",
+      "Wirtschaftliche Offenheit",
+      "Innovationsumsatz",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Innovationen als Anteil am Bruttoinlandsprodukt",
+      "EIS Index",
+      "BIP/Kopf",
+      "Erwerbstätigenquote",
+      "Arbeitslosenquote",
+      "Jugendarbeitslosigkeit"
+    ]
+  },
+  "S260060.pdf": {
+    "indicators": [
+      "VC-Funds Finanzierungsstruktur",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "F&E Ausgaben (GERD)",
+      "Innovierende Unternehmen",
+      "Innovationsumsatz",
+      "Unternehmensförderung",
+      "Öffentliche Finanzierung F&E",
+      "Privater Anteil an F&E-Finanzierung",
+      "Forschungsquote"
+    ]
+  },
+  "R240009.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben im Unternehmenssektor (in US-Dollar und Kaufkraftparitäten, pro 1.000 der Bevölkerung)",
+      "F&E-Ausgaben (GERD)",
+      "Innovierende KMU",
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Innovationen",
+      "Public-Private Partnerships",
+      "KMU und Kooperation"
+    ]
+  },
+  "R240038.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "F&E-Quote",
+      "Hochschulausgaben",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Unternehmensförderung",
+      "Privater Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung F&E",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Forschungsquotenziele 2020"
+    ]
+  },
+  "WR400005.pdf": {
+    "indicators": [
+      "IPR-Regulierung",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Produktmarktregulierung",
+      "Unternehmensbesteuerung",
+      "Bildungsausgaben in % des BIP",
+      "Schulleistungen - hohe Kompetenz",
+      "Unternehmen mit Innovationskooperationen",
+      "Innovationsumsatz",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Wirtschaftliche Offenheit",
+      "Jugendarbeitslosigkeit",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Unternehmenssektor)"
+    ]
+  },
+  "R240067.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E Infrastrukturförderung",
+      "Innovationen in Unternehmen",
+      "Industrie 4.0",
+      "Digital Innovation Hubs",
+      "Wirtschaftliche Offenheit",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Forschungspartnerschaften",
+      "Kooperation von Wissenschaft und Wirtschaft"
+    ]
+  },
+  "S260026.pdf": {
+    "indicators": [
+      "Produktmarktregulierung",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Öffentliche Finanzierung F&E",
+      "Erwerbstätigenquote",
+      "Arbeitslosenquote",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Unternehmensbesteuerung",
+      "Frühe Schulabgänger:innen"
+    ]
+  },
+  "C280013.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Investment in Forschung und Entwicklung",
+      "Forschungsprämie",
+      "Unternehmensförderung",
+      "Direkte Unternehmensförderung",
+      "Indirekte Unternehmensförderung",
+      "Erfolgsquote Unternehmen bei Horizon Europe",
+      "Innovierende KMU",
+      "Schnellwachsende Unternehmen",
+      "Junge schnellwachsende Unternehmen",
+      "Motivation für unternehmerisches Handeln",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Unternehmensbesteuerung"
+    ]
+  },
+  "S260017.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Forschungsgroßgeräte nach Art. 91b Abs. GG (FUGG)",
+      "Forschungsinfrastruktur Förderung",
+      "Forschungsinfrastruktur",
+      "Förderung von Forschungsinfrastruktur",
+      "Europäischer Fonds für regionale Entwicklung (EFRE)",
+      "Horizon 2020",
+      "Enterprise Europe Network",
+      "Innovation und Forschung"
+    ]
+  },
+  "S260034.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Innovierende KMU",
+      "Innovationsumsatz",
+      "Unternehmen mit Innovationskooperationen",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Creativity and Innovation Management",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "F&E-Quote",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Energieintensität"
+    ]
+  },
+  "R240010.pdf": {
+    "indicators": [
+      "IPR-Regulierung",
+      "Internationale Ko-Publikationen",
+      "Wirtschaftliche Offenheit",
+      "Innovierende Unternehmen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Erwerbstätigenquote",
+      "Arbeitslosenquote"
+    ]
+  },
+  "R240005.pdf": {
+    "indicators": [
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Exzellenz in der Grundlagenforschung",
+      "Stärkung der nationalen Humanpotentialbasis",
+      "Stärkung der Forschungsinfrastruktur",
+      "Fördermittel der Nationalstiftung für Forschung, Technologie und Entwicklung",
+      "Erfolg bei der Verbindung zwischen Wissenschaft und Wirtschaft",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Forschungsförderung"
+    ]
+  },
+  "R240072.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Forschungsinfrastruktur",
+      "Risikokapitalstärkung",
+      "Unternehmensförderung",
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Stärkung der nationalen Humanpotentialbasis"
+    ]
+  },
+  "S260057.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Kreislaufwirtschaftsrelevante Exporte in % des BIP",
+      "CO2-Grenzausgleich",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Digitale Souveränität",
+      "Energieintensität",
+      "Exportqualität",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Unternehmensförderung",
+      "Auslandsfinanzierung von F&E",
+      "Innovierende Unternehmen",
+      "Innovationsumsatz",
+      "Schlüsseltechnologien"
+    ]
+  },
+  "R240013.pdf": {
+    "indicators": [
+      "Unternehmensbesteuerung",
+      "Öffentliche Finanzierung F&E",
+      "Bildungsausgaben in % des BIP",
+      "Wirtschaftliche Offenheit",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Forschung Hochschule & außeruniversitär",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Zusammenarbeit mit der Industrie",
+      "Studienplatzfinanzierung"
+    ]
+  },
+  "M300021.pdf": {
+    "indicators": [
+      "E-Government",
+      "Datennutzung"
+    ]
+  },
+  "R240053.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Privater Anteil an F&E-Finanzierung",
+      "Unternehmensförderung",
+      "Effektive durchschnittliche Steuersätze, Nicht-Finanzsektor, (in %)",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Anteil öffentlicher Finanzierung an HERD",
+      "Stärkung der Finanzierung der Hochschulforschung über im Wettbewerb eingeworbene Drittmittel des Wissenschaftsfonds FWF",
+      "Wirtschaftliche Offenheit",
+      "Erwerbstätigenquote"
+    ]
+  },
+  "C280009.pdf": {
+    "indicators": [
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft"
+    ]
+  },
+  "C280007.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Betreuungsverhältnis frühkindlich",
+      "Ausgaben pro Schüler:in (Sekundarbereich)",
+      "Hochschulausgaben",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "Qualität öffentlicher Leistungen",
+      "EIS Index",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Forschungsquotenziele 2020"
+    ]
+  },
+  "S260043.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Produktmarktregulierung",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Unternehmensbesteuerung",
+      "Frühe Schulabgänger:innen",
+      "Interesse an Wissenschaft",
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen",
+      "Unicorn-Bewertung, % BIP",
+      "F&E-Quote",
+      "Privater Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung F&E",
+      "IKT-Investitionen",
+      "KMU-Onlinehandel – international",
+      "Finanzierung von Hochschulen durch Unternehmen",
+      "Erfolgsquote Unternehmen bei Horizon Europe"
+    ]
+  },
+  "M300004.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Frühe Schulabgänger:innen",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Internationale Ko-Publikationen",
+      "Wirtschaftliche Offenheit",
+      "Politische Stabilität",
+      "Regulierungsqualität",
+      "Qualität öffentlicher Leistungen",
+      "Rechtsstaatlichkeit",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "Erfolgsquote Hochschulen bei Horizon Europe"
+    ]
+  },
+  "C280026.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Qualität öffentlicher Leistungen",
+      "Wirtschaftliche Offenheit",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Interesse an Wissenschaft",
+      "Infrastruktur für digitale Medien",
+      "Innovationsumsatz",
+      "Industrie- und Serviceroboter"
+    ]
+  },
+  "S260052.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Lohnabgaben",
+      "Bildungsausgaben in % des BIP",
+      "Ausgaben pro Schüler:in (Sekundarbereich)",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Qualität der Publikationen",
+      "Erfolgsquote Unternehmen bei Horizon Europe",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft"
+    ]
+  },
+  "R240084.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Größe des Kapitalmarkts",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Hochschulranking Forschungsleistung",
+      "Zahl der Forscher:innen",
+      "Innovierende Unternehmen",
+      "Unternehmen mit Innovationskooperationen",
+      "Innovationsumsatz",
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen",
+      "Junge schnellwachsende Unternehmen",
+      "Unicorn-Bewertung, % BIP",
+      "F&E-Quote",
+      "Privater Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung F&E",
+      "IKT-Investitionen",
+      "Breitband",
+      "E-Government",
+      "Nutzung künstlicher Intelligenz",
+      "Digitalisierung"
+    ]
+  },
+  "R240062.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (GERD)",
+      "Privater Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung F&E",
+      "Energieintensität",
+      "Unternehmensförderung",
+      "F&E-Quote"
+    ]
+  },
+  "R000004.pdf": {
+    "indicators": [
+      "IKT-Investitionen",
+      "E-Government",
+      "Interesse an Wissenschaft",
+      "Weiterbildung & Lebenslanges Lernen",
+      "IKT-Absolvent:innen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Wirtschaftliche Offenheit",
+      "Risikokapitalintensität",
+      "Innovierende Unternehmen",
+      "Unternehmensförderung",
+      "Unternehmensbesteuerung",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Politische Stabilität",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit"
+    ]
+  },
+  "C280018.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Effektive durchschnittliche Steuersätze, Nicht-Finanzsektor",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Forschung und Entwicklung in % des BIP"
+    ]
+  },
+  "R240063.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Innovationsintensive Branchen",
+      "Wirtschaftliche Offenheit",
+      "EIS Index",
+      "Regulierungsqualität",
+      "Qualität öffentlicher Leistungen"
+    ]
+  },
+  "R240024.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Risikokapitalstärkung",
+      "IPR-Regulierung",
+      "Forschung und Technologieinitiativen für den Industriestandort",
+      "Exzellenz in der Grundlagenforschung",
+      "Stärkung der nationalen Humanpotentialbasis",
+      "Maßnahmen zur Stärkung des österreichischen Standorts für forschungsaktive Unternehmen",
+      "Stärkung der Forschungsinfrastruktur"
+    ]
+  },
+  "M300005.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Unternehmensbesteuerung",
+      "Internationale Ko-Publikationen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Zahl der Forscher:innen",
+      "Innovationsumsatz",
+      "Infrastruktur für Forschung und Entwicklung",
+      "Forschungspersonal in Bezug zur Bevölkerung",
+      "Erfolgsquote Hochschulen bei Horizon Europe"
+    ]
+  },
+  "R240037.pdf": {
+    "indicators": [
+      "Innovationsfördernde öffentliche Beschaffung",
+      "Öffentliche Finanzierung F&E",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Klein- und Mittelbetriebe",
+      "Datenlage zur öffentlichen Beschaffung",
+      "Motivation und Risikoteilung",
+      "Qualifizierung aller im Beschaffungsprozess Beteiligten",
+      "Politischer Rückhalt"
+    ]
+  },
+  "R240082.pdf": {
+    "indicators": [
+      "IKT-Spezialist:innen",
+      "E-Government",
+      "Data Governance",
+      "Dateninfrastruktur",
+      "Datenkommunikation",
+      "Wirtschaftliche Offenheit",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "Zahl der Forscher:innen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Forschungsausgaben",
+      "Daten inkl. Registerdaten für Forschung",
+      "Innovationspotential durch Datennutzung"
+    ]
+  },
+  "WR400009.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Hochschulausgaben",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Internationale Doktoratsstudent:innen",
+      "Innovationsumsatz",
+      "Betreuungsverhältnis Universitäten",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Wirtschaftliche Offenheit"
+    ]
+  },
+  "S260018.pdf": {
+    "indicators": [
+      "IPR-Regulierung",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "Unternehmensbesteuerung",
+      "Steuer- und Abgabenquote",
+      "Funding von Hochschulen durch Unternehmen",
+      "Open Innovation und IP",
+      "Wirtschaftliche Offenheit",
+      "Internationaler Austausch von Daten und Informationen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Ausgaben für Forschung und Entwicklung in % des BIP"
+    ]
+  },
+  "R240039.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Risikokapitalstärkung",
+      "Innovationspotenzial",
+      "Forschungsinfrastruktur",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "Innovierende Unternehmen",
+      "Regulierungsqualität",
+      "Politische Stabilität"
+    ]
+  },
+  "R240066.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Unternehmensförderung",
+      "Innovationsumsatz",
+      "Innovationen",
+      "Internationaler Innovationsindex",
+      "Forschungsquote",
+      "Risikokapitalintensität",
+      "Vertrauen in Wissenschaft",
+      "Kapitalmarktgröße",
+      "Bildungsausgaben in % des BIP"
+    ]
+  },
+  "S260003.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Wirtschaftliche Offenheit",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Steuer- und Abgabenquote",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Unternehmensbesteuerung",
+      "Qualität öffentlicher Leistungen",
+      "Größe des Kapitalmarkts",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Lohnabgaben"
+    ]
+  },
+  "S260002.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Körperliche Erträge",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Frühe Schulabgänger:innen",
+      "Bildungsvererbung",
+      "Bildungsausgaben in % des BIP",
+      "Produktmarkregulierung",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "VC-Funds Finanzierungsstruktur"
+    ]
+  },
+  "R240078.pdf": {
+    "indicators": [
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Unternehmensbesteuerung",
+      "Regulierungsqualität",
+      "Technologiesouveränität",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Risikokapitalintensität",
+      "Innovationsumsatz",
+      "Innovationen",
+      "F&E-Ausgaben (Unternehmenssektor)"
+    ]
+  },
+  "S260050.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Größe des Kapitalmarkts",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Immigration Hochqualifizierte",
+      "Internationale Ko-Publikationen",
+      "Internationale Doktoratsstudent:innen",
+      "Ausländische Patente in Inlandsbesitz",
+      "Patentanmeldungen",
+      "Industriestrukturbereinigte F&E-Intensität",
+      "Unternehmen mit Innovationskooperationen",
+      "Innovationen ums eigene Prozessmanagement",
+      "Wirtschaftliche Offenheit",
+      "Energieintensität",
+      "Lebensqualität",
+      "Erwerbstätigenquote",
+      "F&E Ausgaben (GERD)"
+    ]
+  },
+  "M300001.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Größe des Kapitalmarkts",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Immigration Hochqualifizierte",
+      "Internationale Ko-Publikationen",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Patentanmeldungen",
+      "Innovationsumsatz",
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "IKT-Investitionen",
+      "Nutzung künstlicher Intelligenz",
+      "Gesunde Lebenserwartung (F)",
+      "Arbeitslosenquote",
+      "Lebensqualität"
+    ]
+  },
+  "S260014.pdf": {
+    "indicators": [
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Bildungsausgaben relativ zum BIP - Sekundarstufe",
+      "Bildungsausgaben relativ zum BIP - Primarstufe",
+      "Schulleistungen - hohe Kompetenz",
+      "Betreuungsverhältnis Volksschule",
+      "Risikokapitalintensität",
+      "Größe des Kapitalmarkts",
+      "VC-Funds Finanzierungsstruktur",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Zahl der Unternehmensforscher:innen"
+    ]
+  },
+  "R240068.pdf": {
+    "indicators": [
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "Regulierung Arbeitsmarkt - befristet",
+      "Unternehmensbesteuerung",
+      "Anteil öffentlicher Finanzierung an HERD",
+      "Regulierungsqualität",
+      "Direkte Unternehmensförderung"
+    ]
+  },
+  "M300006.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Zahl der Forscher:innen (HEI & GOV)",
+      "Innovationen",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovationsumsatz",
+      "Wirtschaftliche Offenheit",
+      "Risikokapitalintensität",
+      "Immigration Hochqualifizierte",
+      "Internationale Ko-Publikationen"
+    ]
+  },
+  "S260048.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - befristet",
+      "Unternehmensbesteuerung",
+      "Frühe Schulabgänger:innen",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Interesse an Wissenschaft",
+      "Innovierende KMU",
+      "KMU und Kooperation",
+      "Innovierenden Unternehmen",
+      "Zahl der Unternehmensforscher:innen",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Institutionen, Unternehmen, Organisationen",
+      "Vertrauen in Wissenschaft",
+      "Politische Stabilität",
+      "Qualität öffentlicher Leistungen",
+      "Regulierungsqualität",
+      "Rechtsstaatlichkeit",
+      "Wirtschaftliche Offenheit",
+      "Zahl der Patente"
+    ]
+  },
+  "WR400004.pdf": {
+    "indicators": [
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Produktmarktregulierung",
+      "IPR-Regulierung",
+      "Unternehmensbesteuerung",
+      "Lohnabgaben",
+      "Steuer- und Abgabenquote",
+      "Hochschulausgaben",
+      "Betreuungsverhältnis frühkindlich",
+      "Frühe Schulabgänger:innen",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Innovationsumsatz",
+      "Zahl der Unternehmensforscher:innen",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "Innovation und Forschung",
+      "Energieintensität"
+    ]
+  },
+  "S260016.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Betreuung frühkindlich",
+      "Frühe Schulabgänger:innen",
+      "Abschlussquote oberer Sekundarbereich",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Weiterbildung & Lebenslanges Lernen",
+      "Interesse an Wissenschaft",
+      "Vertrauen in Wissenschaft",
+      "Unicorn-Bewertung, % BIP",
+      "Motivation für unternehmerisches Handeln",
+      "Schnellwachsende Unternehmen",
+      "Junge schnellwachsende Unternehmen",
+      "Innovierende KMU",
+      "Innovationsumsatz",
+      "KMU und Kooperation",
+      "Innovierende Unternehmen",
+      "Zahl der Unternehmensforscher:innen",
+      "IKT-Investitionen",
+      "Breitband",
+      "E-Government",
+      "Nutzung künstlicher Intelligenz",
+      "IKT-Beschäftigung",
+      "Batterierecycling",
+      "Ressourcenproduktivität",
+      "Treibhausgase",
+      "Vertrauen in Wissenschaft",
+      "Bildungsvererbung"
+    ]
+  },
+  "WR400023.pdf": {
+    "indicators": [
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "Bildungsausgaben in % des BIP",
+      "Bildungsausgaben pro Schüler:in",
+      "Bildungsausgaben im vortertiären Bereich (in % des BIP)"
+    ]
+  },
+  "M300019.pdf": {
+    "indicators": [
+      "F&E-Quote",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Erfolgsquote Unternehmen bei Horizon Europe",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "Innovationenintensive Branchen",
+      "Innovierende Unternehmen",
+      "Internationalisierung fördern und strategisch ausrichten"
+    ]
+  },
+  "D320043.pdf": {
+    "indicators": [
+      "PISA Geschlechterdifferenz Mathematik",
+      "MINT-Absolventinnen",
+      "Absolventinnen in Naturwissenschaften",
+      "Absolventinnen in Technik",
+      "IKT-Absolventinnen",
+      "Weibliche IKT Fachkräfte",
+      "Forscherinnen in Unternehmen",
+      "Forscherinnen außerhalb Unternehmen",
+      "Glasdeckenindex EU"
+    ]
+  },
+  "S260020.pdf": {
+    "indicators": [
+      "Produktmarktregulierung",
+      "Regulierung Arbeitsmarkt - individuell",
+      "Regulierung Arbeitsmarkt - mehrfach",
+      "Regulierung Arbeitsmarkt - befristet",
+      "IPR-Regulierung",
+      "VC-Funds Finanzierungsstruktur",
+      "Risikokapitalintensität",
+      "F&E-Quote",
+      "Öffentliche Finanzierung F&E",
+      "Anteil öffentlicher Finanzierung an HERD",
+      "Regulierungsqualität",
+      "Finanzielle Unterstützung",
+      "Politische Steuerung",
+      "Ausbildung und Qualifizierung",
+      "Steuer- und Abgabenquote"
+    ]
+  },
+  "R240016.pdf": {
+    "indicators": [
+      "Risikokapitalstärkung",
+      "Stärkung des Beitrages des geistigen Eigentumsschutzes zu Wachstum und Innovation",
+      "Open Innovation",
+      "Wirtschaftliche Offenheit",
+      "F&E-Quote",
+      "Unternehmensförderung",
+      "Innovationenumsatz",
+      "Innovierende Unternehmen",
+      "Initiativen mit entsprechenden kritischen Größen und Risikopotential",
+      "Stärkung der Forschungsinfrastruktur",
+      "Stärkung der nationalen Humanpotentialbasis"
+    ]
+  },
+  "R240036.pdf": {
+    "indicators": [
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Öffentliche Finanzierung F&E",
+      "Öffentliche Finanzierung HERD, in % des BIP",
+      "Unternehmensförderung",
+      "Direkte Unternehmensförderung",
+      "Indirekte Unternehmensförderung",
+      "F&E-Ausgaben (Unternehmenssektor)",
+      "Innovationstätigkeit"
+    ]
+  },
+  "C280022.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Ausgaben pro Schüler:in (Sekundarbereich)",
+      "Schulleistungen Sekundarstufe - Spitze",
+      "Schulleistungen Sekundarstufe - Niedrig",
+      "PISA Leistungsdifferenz Herkunft",
+      "Betreuung frühkindlich",
+      "Betreuungsverhältnis frühkindlich",
+      "Wirtschaftliche Offenheit",
+      "Internationale Kooperation",
+      "Interesse an Wissenschaft",
+      "Steuer- und Abgabenquote",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "E-Government",
+      "IKT-Investitionen",
+      "IKT-Beschäftigung",
+      "Schulleistungen - hohe Kompetenz",
+      "Bildungsvererbung",
+      "Lohnabgaben",
+      "Regulierungsqualität"
+    ]
+  },
+  "S260068.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Schulleistungen - hohe Kompetenz",
+      "Schulleistungen - niedrige Kompetenz",
+      "Schulleistungen Sekundarstufe - Spitze",
+      "Schulleistungen Sekundarstufe - Niedrig",
+      "Digitale Kompetenzen der Bevölkerung",
+      "Frühe Schulabgänger:innen",
+      "Anteil berufsbezogene Absolvent:innen",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Weiterbildung & Lebenslanges Lernen"
+    ]
+  },
+  "R240079.pdf": {
+    "indicators": [
+      "Bildungsausgaben in % des BIP",
+      "Betreuung frühkindlich",
+      "Betreuungsverhältnis frühkindlich",
+      "Ausgaben pro Schüler:in (Primarbereich)",
+      "Ausgaben relativ zum BIP - Primarstufe",
+      "MINT-Absolvent:innen ISCED 5-8",
+      "MINT-Absolvent:innen ISCED 6-8",
+      "Hochschulabsolvent:innen ISCED 5-8",
+      "Hochschulabsolvent:innen ISCED 6-8",
+      "Doktoratsabsolvent:innen MINT",
+      "IKT-Absolvent:innen",
+      "Innovierende Unternehmen",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Kunstliche Intelligenz",
+      "Quantentechnologie"
+    ]
+  },
+  "C280023.pdf": {
+    "indicators": [
+      "IPR-Regulierung",
+      "Data quality",
+      "Data security",
+      "Data accessibility",
+      "Verfügbarkeit von Statistik- und Registerdaten",
+      "Effiziente Nutzung von Daten",
+      "Awareness-Kampagne für Datennutzung",
+      "COVID-19-Pandemie Forschungszugang",
+      "Krisenförderung durch wissenschaftliche Daten",
+      "Digitalisierung im Forschungsbereich"
+    ]
+  },
+  "R240083.pdf": {
+    "indicators": [
+      "Internationale Ko-Publikationen",
+      "Beteiligung von Hochschulen an EU-Forschungsprojekten",
+      "Erfolgsquote Hochschulen bei Horizon Europe",
+      "Education Expenditures in % of GDP",
+      "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+      "Privater Anteil an F&E-Finanzierung",
+      "Öffentliche Finanzierung von F&E-Ausgaben im Hochschulsektor (HERD) im internationalen Vergleich (in % des BIP)",
+      "International Cooperation"
+    ]
+  },
+  "S260009.pdf": {
+    "indicators": []
+  },
+  "WR400001.pdf": {
+    "indicators":  []
+  },
+  "M300009.pdf": {
+    "indicators":  []
+  },
+  "S260023.pdf": {
+    "indicators":  []
+  },
+  "M300003.pdf": {
+    "indicators":  []
+  },
+  "M300020.pdf": {
+    "indicators":  []
+  },
+  "WR400012.pdf": {
+    "indicators":  []
+  }
+}
