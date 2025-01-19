@@ -3,3 +3,4 @@ thefuzz
 pymupdf
 openai
 python-dotenv
+fuzzysearch

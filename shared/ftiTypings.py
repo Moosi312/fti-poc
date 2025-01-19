@@ -14,8 +14,14 @@ class String(TypedDict):
     i: List[str]
     wt: Dict[str, List[str]]
 
+class Doc(TypedDict):
+    file: str
+    year: int
+
 LABELS_TYPE = Dict[str, Label]
 
 STRINGS_TYPE = Dict[str, String]
 
 INDICATOR_TYPE = Dict[str, str]
+
+DOCS_TYPE = Dict[str, Doc]

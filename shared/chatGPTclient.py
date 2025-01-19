@@ -13,7 +13,7 @@ from path import Path
 from pymupdf import pymupdf
 
 from shared.ftiTypings import INDICATOR_TYPE, STRINGS_TYPE, LABELS_TYPE
-from shared.setup import extract_text
+from shared.setup import extract_text, get_strings, get_labels, get_indicators, get_topic_indicator_map, get_iso_date
 
 
 def default_get_file_name(file: Path):
@@ -22,17 +22,6 @@ def default_get_file_name(file: Path):
 def default_get_content(file: Path):
     return file.read_text()
 
-
-def get_strings() -> STRINGS_TYPE:
-    return json.loads(Path('../assets/data/str.json').read_text())
-
-
-def get_labels() -> LABELS_TYPE:
-    return json.loads(Path('../assets/data/labels.json').read_text())
-
-
-def get_iso_date() -> str:
-    return datetime.now().replace(microsecond=0).isoformat()
 
 
 class ChatGPTClient:
@@ -59,8 +48,8 @@ class ChatGPTClient:
 
         self.strings = get_strings()
         self.labels = get_labels()
-        self.indicators = self.get_indicators()
-        self.topicIndicatorMap = self.get_topic_indicator_map()
+        self.indicators = get_indicators(self.strings, self.labels)
+        self.topicIndicatorMap = get_topic_indicator_map(self.strings)
 
         load_dotenv()
         api_key = os.getenv('OPEN_AI_API_TOKEN')
@@ -68,25 +57,6 @@ class ChatGPTClient:
             api_key=api_key,
             project="proj_oR5I1XR4jtW2dcV6Um9QUbvZ"
         )
-
-    def get_topic_indicator_map(self) -> Dict[str, List[str]]:
-        topic_indicator_map = {}
-        for topic, data in self.strings.items():
-            for indicator in data['i']:
-                if indicator not in topic_indicator_map:
-                    topic_indicator_map[indicator] = []
-                topic_indicator_map[indicator].append(topic)
-        return topic_indicator_map
-
-    def get_topics_for_indicator(self, indicator: str) -> List[str]:
-        if indicator not in self.topicIndicatorMap:
-            return []
-        return self.topicIndicatorMap[indicator]
-
-    def get_indicators(self) -> INDICATOR_TYPE:
-        indicator_keys = list(itertools.chain.from_iterable(ind['i'] for ind in self.strings.values()))
-        indicator_map = {i: self.labels[i]['short'] for i in indicator_keys}
-        return indicator_map
 
     def get_prompt_template(self):
         return self.prompt_template.read_text("UTF-8")
@@ -234,9 +204,7 @@ class ChatGPTClient:
             presence_penalty=0,
         )
 
-        data = json.loads(response.choices[0].message.content)
-
-        return {filename: data}
+        return json.loads(response.choices[0].message.content)
 
     def invert_map(self):
         with open(self.prompt_output_file, 'r') as f:
