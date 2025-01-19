@@ -222,14 +222,11 @@ a {
         }
 
         .docs-expand {
-            display: flex;
-            justify-content: center;
+            width: 100%;
+            background: none;
+            border: none;
+            font-size: 12px;
             cursor: pointer;
-
-            svg {
-                height: 16px;
-                width: 16px;
-            }
         }
     }
 }

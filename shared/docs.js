@@ -35,10 +35,10 @@ export function displayDocsByType(type, docs, expanded = false) {
         docList.appendChild(el);
     })
     if (docs.length > 3 && !expanded) {
-        const el = document.createElement('div');
+        const el = document.createElement('button');
         el.classList.add('docs-expand');
         el.setAttribute('onclick', `onExpandDocs('${type}')`)
-        el.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"/></svg>`;
+        el.innerHTML = `▼ &nbsp; Alle ${docs.length} anzeigen`;
         docList.appendChild(el);
     }
 }

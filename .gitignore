@@ -2,6 +2,5 @@
 */.venv
 .env
 
-text-search-docs/extracted-text
-text-search-docs-topics/extracted-text
-llm-search-docs/extracted-text
+*/extracted-text
+*/tmp
