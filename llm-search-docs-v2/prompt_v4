@@ -6,11 +6,16 @@ The indicators will be in the format:
 ```
 
 You will get the text from a document.
+The filename will be listed in the first line of the text
 For the document find relevant indicators for the contents of the text.
 
 Provide your answer in the form of a json string with the format.
 
-["indicator_1", "indicator_2", ..., "indicator_n"]
+```
+{
+    "<filename>": ["indicator_1", "indicator_2", ..., "indicator_n"]
+}
+```
 
 
 Here is the list of indicators:

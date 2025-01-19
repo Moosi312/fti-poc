@@ -27,15 +27,25 @@ a {
 
 .search-box {
     flex: 1;
-    max-width: calc(500px + 0.8rem);
 
     input {
+        max-width: calc(500px + 0.8rem);
         width: 100%;
         border-radius: 4px;
         background-color: transparent;
         border: 1px solid black;
         font-size: 20px;
         padding: 0.3rem 0.6rem;
+    }
+}
+
+.search-box-with-link {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+
+    a {
+        text-decoration: underline;
     }
 }
 
