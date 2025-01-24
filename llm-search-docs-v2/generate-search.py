@@ -8,7 +8,7 @@ def main():
     client = ChatGPTClient(USE_MODEL, prompt_template='./prompt_v4')
 
     client.set_prompt(generate_promt(client.get_prompt_template(), client))
-    client.extract_text()
+    # client.extract_text()
     client.prompt_query()
     client.invert_map()
 

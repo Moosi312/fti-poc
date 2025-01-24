@@ -1,18 +1,15 @@
-import itertools
 import json
 import os
 import time
 from collections import ChainMap
-from datetime import datetime
 from time import sleep
-from typing import Callable, Dict, List
+from typing import Callable, List
 
+import openai
 from dotenv import load_dotenv
 from openai import OpenAI
 from path import Path
-from pymupdf import pymupdf
 
-from shared.ftiTypings import INDICATOR_TYPE, STRINGS_TYPE, LABELS_TYPE
 from shared.setup import extract_text, get_strings, get_labels, get_indicators, get_topic_indicator_map, get_iso_date
 
 
@@ -33,7 +30,7 @@ class ChatGPTClient:
             prompt_file='./tmp/prompt',
             prompt_template='../shared/prompt',
             batches_file='./tmp/batches.jsonl',
-            prompt_output_file='./indicators-for-docs.json',
+            prompt_output_file='./tmp/indicators-for-docs.json',
             output_file='./docs-by-indicator.json',
     ):
         Path('./tmp').makedirs_p()
@@ -106,20 +103,35 @@ class ChatGPTClient:
 
         file_amount = len(self.extracted_text_folder.files())
         for i, file in enumerate(self.extracted_text_folder.files()):
-            print(f"\r[{i:>3}/{file_amount:>3}] Prompting for doc {file.name.stripext()}", end='')
-            try:
-                indicators = self.make_query(prompt, file_name_transform(file), content_transform(file))
-            except Exception as e:
-                print(f"\r[ERROR] <{file.name.stripext()}.pdf> {e}")
-            else:
-                output.update(indicators)
-            sleep(60)
+            file_name = file_name_transform(file)
+            print(f"\r[{i:>3}/{file_amount:>3}] Prompting for doc {file_name}", end='')
+            output.update({ file_name : {*self.make_query(prompt, content_transform(file), file_name)}})
 
         print(f"\r[{file_amount:>3}/{file_amount:>3}] Finished prompts")
 
         with open(self.prompt_output_file, 'w') as f:
             json.dump(output, f, indent=2, ensure_ascii=False)
 
+    def make_query(self, system_prompt: str, content: str, file_name: str, split = 0, waited=False) -> list[str]:
+        try:
+            return self.make_query_request(system_prompt, content)
+        except openai.RateLimitError:
+            if not waited:
+                print(f"\r[WARN] <{split} | {file_name}> Rate limit exceeded. Waiting for one minute")
+                sleep(60)
+                return self.make_query(system_prompt, content, file_name, split, True)
+            print(f"\r[WARN] <{split} | {file_name}> Rate limit exceeded twice. Waiting for one minute and splitting in half")
+            sleep(60)
+            return self.make_query(system_prompt, content[:len(content) // 2], file_name, split +1) + self.make_query(system_prompt, content[len(content) // 2:], file_name, split + 1)
+        except openai.BadRequestError as e:
+            if e.body['code'] == "context_length_exceeded":
+                print(f"\r[WARN] <{split} | {file_name}> File too long, splitting in half")
+                return self.make_query(system_prompt, content[:len(content) // 2], file_name, split +1) + self.make_query(system_prompt, content[len(content) // 2:], file_name, split + 1)
+            print(f"\r[ERROR] <{split} | {file_name}> {e}")
+            return []
+        except Exception as e:
+            print(f"\r[ERROR] <{split} | {file_name}> {e}")
+            return []
 
     def prompt_batches(self, file_name_transform: Callable[[Path], str] = default_get_file_name, content_transform: Callable[[Path], str] = default_get_content):
 
@@ -178,8 +190,7 @@ class ChatGPTClient:
 
         return dict(ChainMap(*dicts))
 
-
-    def make_query(self, system_prompt: str, filename: str, content: str):
+    def make_query_request(self, system_prompt: str, content: str) -> List[str]:
         response = self.client.chat.completions.create(
             model=self.model,
             messages=[
@@ -204,18 +215,25 @@ class ChatGPTClient:
             presence_penalty=0,
         )
 
-        return json.loads(response.choices[0].message.content)
+        values = json.loads(response.choices[0].message.content)
+        if "Indicators" not in values:
+            print(f"\r[{get_iso_date()}] ERROR: no indicators found : {values}")
+            return []
+        return values["Indicators"]
 
     def invert_map(self):
         with open(self.prompt_output_file, 'r') as f:
             orig = json.load(f)
         inverted_ind_map = {v: k for k, v in self.indicators.items()}
         invert = {}
+        not_found_indicators = {}
 
         for file, indicators in orig.items():
             for indicator in indicators:
                 if indicator not in inverted_ind_map:
-                    print(f"Indicator {indicator} not found")
+                    if indicator not in not_found_indicators:
+                        not_found_indicators[indicator] = 0
+                    not_found_indicators[indicator] += 1
                     continue
                 ind_id = inverted_ind_map[indicator]
                 if ind_id not in invert:
