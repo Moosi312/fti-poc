@@ -1,3 +1,4 @@
+const DOC_TYPES = ['r', 'c', 's', 'm', 'l', 'd']
 
 export function displayRelevantDocs(id, docs, indicatorDocumentMap) {
     const relDocs = indicatorDocumentMap[id];
@@ -5,7 +6,7 @@ export function displayRelevantDocs(id, docs, indicatorDocumentMap) {
         return;
     }
     console.log("Found docs: ", relDocs);
-    const docsMap = new Map();
+    const docsMap = new Map(DOC_TYPES.map(d => [d, []]));
     relDocs.forEach(relDoc => {
         const doc = docs.find(doc => doc['file'] === relDoc);
         if (!doc) {

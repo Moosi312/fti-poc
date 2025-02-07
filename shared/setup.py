@@ -20,7 +20,7 @@ def extract_text(extracted_text_folder: Path, pdf_folder: Path):
         print(f"\r[{i:>3}/{file_amount:>3}] Extract {doc_path.name}", end='')
         output = extracted_text_folder / '.'.join(doc_path.name.split('.')[:-1] + ['txt'])
         doc = pymupdf.open(doc_path)
-        with open(output, 'wb') as f:
+        with open(output, 'wb', encoding='UTF-8') as f:
             for page in doc:
                 text = page.get_text().encode('utf-8')
                 f.write(text)
@@ -31,7 +31,7 @@ def get_docs_folder(docs_folder: str= '../assets/docs/pdf') -> Path:
     return Path(docs_folder)
 
 def get_docs_data() -> DOCS_TYPE:
-    return {file['file']: file for file in json.loads(Path('../assets/data/docs.json').read_text())}
+    return {file['file']: file for file in json.loads(Path('../assets/data/docs.json').read_text('UTF-8'))}
 
 def get_extracted_text_folder(extracted_text_folder: str= './tmp/extracted-text') -> Path:
     folder = Path(extracted_text_folder)
@@ -42,13 +42,13 @@ def get_output_file(output_file: str= './docs-by-indicator.json') -> Path:
     return Path(output_file)
 
 def get_strings() -> STRINGS_TYPE:
-    return json.loads(Path('../assets/data/str.json').read_text())
+    return json.loads(Path('../assets/data/str.json').read_text('UTF-8'))
 
 def get_labels() -> LABELS_TYPE:
-    return json.loads(Path('../assets/data/labels.json').read_text())
+    return json.loads(Path('../assets/data/labels.json').read_text('UTF-8'))
 
 def get_synonyms() -> Dict[str, list[str]]:
-    return json.loads(Path('../shared/synonym.json').read_text())
+    return json.loads(Path('../shared/synonym.json').read_text('UTF-8'))
 
 def get_iso_date() -> str:
     return datetime.now().replace(microsecond=0).isoformat()

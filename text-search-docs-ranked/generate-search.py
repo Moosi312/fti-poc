@@ -53,7 +53,7 @@ def main():
     indicators = get_indicators(strings, labels)
     topic_map = get_topic_indicator_map(strings)
 
-    # extract_text(text_folder, docs)
+    extract_text(text_folder, docs)
     search = search_texts(text_folder, indicators, topic_map, labels, synonyms, docs_data)
 
     with open(intermediary_output, 'w') as f:
@@ -84,7 +84,7 @@ def search_texts(text_folder: Path, indicators: dict[str: str], topic_map: dict[
 
 def search_text_file(indicator_id: str, indicator_name: str, text_file: Path, topic_map: dict[str, list[str]], labels: LABELS_TYPE, synonyms: Dict[str, list[str]], year: int) -> IndicatorData | None:
     data = IndicatorData(indicator_name)
-    text = text_file.read_text()
+    text = text_file.read_text('UTF-8')
 
     data.indicatorFound = count_found_searches(text, data.indicator_name)
     data.year = year
