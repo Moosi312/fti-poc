@@ -32,6 +32,7 @@ class ScoringValues:
     INDICATOR = 25
     TOPIC = 5
     YEAR_MAX = 10
+    LENGTH_FACTOR = 0.0001
     CURRENT_YEAR = datetime.now().year
     @staticmethod
     def get_year_value(year: int | None):
@@ -102,7 +103,7 @@ def search_text_file(indicator_id: str, indicator_name: str, text_file: Path, to
     if data.topicsFound == 0 and data.indicatorFound == 0:
         return None
 
-    data.totalScore = (data.indicatorFound * ScoringValues.INDICATOR) + (data.topicsFound / len(data.topics) * ScoringValues.TOPIC) + ScoringValues.get_year_value(data.year)
+    data.totalScore = ((data.indicatorFound * ScoringValues.INDICATOR) + (data.topicsFound / len(data.topics) * ScoringValues.TOPIC) + ScoringValues.get_year_value(data.year)) / (len(text) * ScoringValues.LENGTH_FACTOR)
     return data
 
 def count_found_searches(text: str, search_string: str) -> int:
