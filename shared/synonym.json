@@ -54,7 +54,9 @@
     "SDG",
     "Environmental",
     "Social and Governance",
-    "ESG"
+    "ESG",
+    "Umwelt",
+    "Klima"
   ],
   "Effizienz": [
     "Wirkung"
@@ -70,5 +72,15 @@
     "Key enabling technologies",
     "KET",
     "Humankapital"
+  ],
+  "Regulierung, Finanz- und Steuersystem": [
+    "Regulierung",
+    "Finanz",
+    "Steuersystem"
+  ],
+  "Forschung Hochschule & außeruniversitär": [
+    "Forschung",
+    "Hochschule",
+    "Außeruniversitär"
   ]
 }
