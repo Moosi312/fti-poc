@@ -17,11 +17,13 @@ def default_get_file_name(file: Path):
     return f"{file.stripext().name}.pdf"
 
 def default_get_content(file: Path):
-    return file.read_text()
+    return file.read_text('UTF-8')
 
 
 
 class ChatGPTClient:
+    temperature = 50
+
     def __init__(
             self,
             model: str,
@@ -66,7 +68,7 @@ class ChatGPTClient:
 
 
     def generate_batches(self, text_folder: Path, prompt_input: Path, file_name_transform: Callable[[Path], str] = default_get_file_name, content_transform: Callable[[Path], str] = default_get_content):
-        with open(prompt_input, 'r') as f:
+        with open(prompt_input, 'r', encoding='UTF-8') as f:
             prompt = f.read()
 
         return (self.get_batch_line(prompt, file_name_transform(file), content_transform(file)) for file in text_folder.files())
@@ -97,7 +99,7 @@ class ChatGPTClient:
 
 
     def prompt_query(self, file_name_transform: Callable[[Path], str] = default_get_file_name, content_transform: Callable[[Path], str] = default_get_content):
-        with open(self.prompt_file, 'r') as f:
+        with open(self.prompt_file, 'r', encoding='UTF-8') as f:
             prompt = f.read()
             output = {}
 
@@ -105,11 +107,11 @@ class ChatGPTClient:
         for i, file in enumerate(self.extracted_text_folder.files()):
             file_name = file_name_transform(file)
             print(f"\r[{i:>3}/{file_amount:>3}] Prompting for doc {file_name}", end='')
-            output.update({ file_name : {*self.make_query(prompt, content_transform(file), file_name)}})
+            output.update({ file_name : list({*self.make_query(prompt, content_transform(file), file_name)})})
 
         print(f"\r[{file_amount:>3}/{file_amount:>3}] Finished prompts")
 
-        with open(self.prompt_output_file, 'w') as f:
+        with open(self.prompt_output_file, 'w', encoding='UTF-8') as f:
             json.dump(output, f, indent=2, ensure_ascii=False)
 
     def make_query(self, system_prompt: str, content: str, file_name: str, split = 0, waited=False) -> list[str]:
@@ -135,7 +137,7 @@ class ChatGPTClient:
 
     def prompt_batches(self, file_name_transform: Callable[[Path], str] = default_get_file_name, content_transform: Callable[[Path], str] = default_get_content):
 
-        with open(self.prompt_file, 'r') as f:
+        with open(self.prompt_file, 'r', encoding='UTF-8') as f:
             prompt = f.read()
             output = {}
 
@@ -208,7 +210,7 @@ class ChatGPTClient:
             response_format={
                 "type": "json_object"
             },
-            temperature=1,
+            temperature=self.temperature,
             max_completion_tokens=2048,
             top_p=1,
             frequency_penalty=0,

@@ -20,7 +20,7 @@ def extract_text(extracted_text_folder: Path, pdf_folder: Path):
         print(f"\r[{i:>3}/{file_amount:>3}] Extract {doc_path.name}", end='')
         output = extracted_text_folder / '.'.join(doc_path.name.split('.')[:-1] + ['txt'])
         doc = pymupdf.open(doc_path)
-        with open(output, 'wb', encoding='UTF-8') as f:
+        with open(output, 'wb') as f:
             for page in doc:
                 text = page.get_text().encode('utf-8')
                 f.write(text)
