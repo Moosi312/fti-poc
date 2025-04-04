@@ -1,0 +1,40 @@
+{
+  "files": {
+    "documents": "/data/docs.json",
+    "topicConfig": "/data/str.json",
+    "labels": "/data/labels.json"
+  },
+  "documentsFolder": "/docs/",
+  "searches": [
+    {
+      "searchName": "LLM search V1",
+      "description": "Let ChatGPT search all relevant indicators for a given document\nChatGpt is given document and indicator list, and is then prompted to find relevant indicators.",
+      "fileLocation": "/llm-search-docs/docs-by-indicator.json"
+    },
+    {
+      "searchName": "LLM search V2",
+      "description": "Let ChatGPT search all relevant indicators for a given document\nChatGpt is given a document and indicator list with detailed description of it, and is then prompted to find relevant indicators",
+      "fileLocation": "/llm-search-docs-v2/docs-by-indicator.json"
+    },
+    {
+      "searchName": "LLM search V3",
+      "description": "Let ChatGPT search all relevant indicators for a given document\nChatGpt is given a document and indicator list with detailed description of it, and is then prompted to find relevant indicators\nExpanded prompt compared to other version",
+      "fileLocation": "/llm-search-docs-v3/docs-by-indicator.json"
+    },
+    {
+      "searchName": "Text Search",
+      "description": "Pre search all documents using a fuzzy search for all indicators\nThis means we can only match the predefined indicators",
+      "fileLocation": "/text-search-docs/docs-by-indicator.json"
+    },
+    {
+      "searchName": "Ranked Search",
+      "description": "Pre search all documents using a fuzzy search for all indicators and topic + thesaurus\nAssign a score according to how many and what instances were found",
+      "fileLocation": "/text-search-docs-ranked/docs-by-indicator.json"
+    },
+    {
+      "searchName": "Topic Text Search",
+      "description": "Pre search all documents using a fuzzy search for all indicators and their associated topics\nA thesaurus is added to expand the search terms for the topics",
+      "fileLocation": "/text-search-docs-topics/docs-by-indicator.json"
+    }
+  ]
+}
