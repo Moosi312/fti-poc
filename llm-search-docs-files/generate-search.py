@@ -69,16 +69,14 @@ def prompt_for_indicators(indicators: dict[str, Indicator], template: dict[str, 
     output = {}
     total = len(indicators)
     for i, (key, indicator) in enumerate(indicators.items()):
-        if i > 10:
-            break
-        print(f"[{get_iso_date()}] ({i}/{total}) Prompting for Indicator \"{indicator.name}\"", end='\r')
+        print(f"[{get_iso_date()}] ({i+1}/{total}) Prompting for Indicator \"{indicator.name}\"", end='')
         t = time()
         prompt = generate_prompt(template, indicator)
         prompt_file = prompts_folder / f'{key}.txt'
         prompt_file.write_text(prompt)
         response = make_query(prompt, client)
         output.update({key: response})
-        print(f"\r[{get_iso_date()}] ({i}/{total}) Prompt for Indicator \"{indicator.name}\" finished after {time() - t:.2f} seconds with {len(response)} documents found")
+        print(f"\r[{get_iso_date()}] ({i+1}/{total}) Prompt for Indicator \"{indicator.name}\" finished after {time() - t:.2f} seconds with {len(response)} documents found")
 
     with open(output_file, 'w', encoding='UTF-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
