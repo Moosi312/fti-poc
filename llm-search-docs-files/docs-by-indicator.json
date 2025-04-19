@@ -1,0 +1,79 @@
+{
+  "EP_indiv_dismiss": [
+    "L100012.pdf",
+    "L100011.pdf",
+    "S260054.pdf",
+    "M300020.pdf",
+    "L100013.pdf",
+    "L100009.pdf"
+  ],
+  "EP_coll_dismiss": [
+    "L100012.pdf",
+    "L100011.pdf",
+    "S260054.pdf",
+    "S260009.pdf"
+  ],
+  "EP_temp_emp": [
+    "L100011.pdf",
+    "S260054.pdf",
+    "L100012.pdf"
+  ],
+  "PMR2018": [
+    "L100011.pdf",
+    "L100012.pdf",
+    "S260054.pdf",
+    "S260040.pdf",
+    "S260009.pdf"
+  ],
+  "IPP_Reg": [
+    "L100011.pdf",
+    "S260033.pdf",
+    "S260054.pdf",
+    "L100012.pdf"
+  ],
+  "Kapitalmarktgroesse": [
+    "L100011.pdf",
+    "S260054.pdf",
+    "S260033.pdf",
+    "S260009.pdf",
+    "L100012.pdf",
+    "L100015.pdf",
+    "S260047.pdf"
+  ],
+  "VC_x_bank_gvt": [
+    "L100011.pdf",
+    "L100012.pdf",
+    "L100013.pdf",
+    "S260054.pdf",
+    "R240068.pdf",
+    "S260047.pdf"
+  ],
+  "VC": [
+    "L100013.pdf",
+    "L100012.pdf",
+    "S260054.pdf",
+    "L100011.pdf",
+    "L100013.pdf"
+  ],
+  "Steuer_UNT": [
+    "L100012.pdf",
+    "L100011.pdf",
+    "S260054.pdf",
+    "S260033.pdf"
+  ],
+  "Steuer_Loehne": [
+    "M300013.pdf",
+    "L100011.pdf",
+    "L100012.pdf",
+    "L100013.pdf",
+    "S260054.pdf",
+    "S260031.pdf"
+  ],
+  "Abgabenquote": [
+    "L100011.pdf",
+    "S260054.pdf",
+    "M300020.pdf",
+    "L100014.pdf",
+    "L100012.pdf"
+  ]
+}
