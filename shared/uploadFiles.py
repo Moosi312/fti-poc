@@ -1,16 +1,13 @@
 import json
+import os
 
 import openai
-import os
-import argparse
-
 from dotenv import load_dotenv
-from openai import api_key
 from path import Path
 
 FOLDER_PATH = './assets/docs/pdf'
 OUTPUT_FILE = './shared/fileIds.json'
-VECTOR_STORE_ID = 'vs_6803b9602b4c8191912750177c220dc2'
+VECTOR_STORE_ID = 'vs_6803b9685da88191b65010bbced4bd51'
 
 
 def upload_file(api_key: str, file: Path, purpose='fine-tune') -> str:
@@ -52,7 +49,7 @@ def main():
     load_dotenv()
     api_key = os.getenv('OPEN_AI_API_TOKEN')
     print(api_key)
-    #upload_pdfs_in_folder(api_key, Path(FOLDER_PATH), Path(OUTPUT_FILE))
+    upload_pdfs_in_folder(api_key, Path(FOLDER_PATH), Path(OUTPUT_FILE))
     add_files_to_vector_store(api_key, Path(OUTPUT_FILE))
 
 if __name__ == "__main__":

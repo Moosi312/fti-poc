@@ -1,8 +1,6 @@
-import itertools
 import json
 import os
 from collections import namedtuple
-from pydoc_data.topics import topics
 from time import sleep, time
 
 import openai
@@ -21,7 +19,7 @@ PROMPTS_FOLDER = 'prompts/'
 TEMPLATE_FILE = 'prompt-template.json'
 STRINGS_FILE = './assets/data/str.json'
 LABELS_FILE = './assets/data/labels.json'
-VECTOR_STORE_ID = 'vs_6803b9602b4c8191912750177c220dc2'
+VECTOR_STORE_ID = 'vs_6803b9685da88191b65010bbced4bd51'
 
 
 Topic = namedtuple('Topic', ['name', 'synonyms'])
