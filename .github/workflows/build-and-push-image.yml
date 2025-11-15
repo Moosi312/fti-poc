@@ -15,14 +15,10 @@ jobs:
       password: ${{secrets.DOCKERHUB_TOKEN}}
     steps:
       - uses: actions/checkout@v2
-      - name: echo
-        id: echo
-        run: |
-          echo "User: '$username' Passwort: '$password'"
       - name: login to docker hub
         id: docker-hub
         run: |
-          docker login -u $username -p $password
+          $password | docker login -u $username --password-stdin
       - name: build the docker image
         id: build-docker-image
         run: |
