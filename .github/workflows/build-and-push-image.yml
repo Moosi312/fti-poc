@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: echo
-        id: docker-hub
+        id: echo
         run: |
           echo "$username $password"
       - name: login to docker hub
