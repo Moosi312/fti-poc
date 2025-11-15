@@ -4,7 +4,7 @@ on:
     branches:
       - main
 env:
-  IMAGE_NAME: fti-poc
+  IMAGE_NAME: fti-overview
   IMAGE_TAG: latest
 jobs:
   build:
