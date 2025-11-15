@@ -28,6 +28,12 @@
       "fileName": "docs-by-indicator.json"
     },
     {
+      "searchName": "LLM search over Files",
+      "description": "In this approach we create a vector file storage.\nThis allows us to direct to prompt to also draw from those files.\nWith this we can directly ask it to search for all files relevant to the indicator.",
+      "path": "/llm-search-docs-files/",
+      "fileName": "docs-by-indicator.json"
+    },
+    {
       "searchName": "Text Search",
       "description": "Pre search all documents using a fuzzy search for all indicators\nThis means we can only match the predefined indicators",
       "path": "/text-search-docs/",

@@ -1,0 +1,7 @@
+{
+  "intro": "You will be evaluating documents for the Austrian science, technology and innovation council and their application \"Science - Technology and Innovation Monitor\".\nThis app provides the use with an overview of Austria's current performance concerning science, technology and innovation across several key indicators and topics.\nEvery indicator is assigned to one or more topics.\nThere are also documents available in the web application, that provides an overview of how Austria is performing in various topics concerning technology, science and innovation.\nThe documents will be displayed alongside the indicator to the user.\nYou are in charge of assigning relevant documents to the indicators provided. This will be used as a basis for what is displayed to the user.\nBe sure to provide a large selection of between 10 to 20 relevant documents for the user!\nOrder the document by how relevant they are to the indicator. Most relevant first!",
+  "indicator": "The given indicator for you to evaluate is: \"{{indicator}}\"",
+  "synonyms": "It may also be known under these synonyms: {{synonyms}}",
+  "topic": "The indicator can be found under this topic: \"{{topic}}\"",
+  "outro": "Give your answers in the JSON format: `{\"fileNames\": [\"fileName1\", \"fileName2\", ...]}`"
+}
