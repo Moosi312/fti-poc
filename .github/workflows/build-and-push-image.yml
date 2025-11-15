@@ -15,7 +15,7 @@ jobs:
       password: ${{secrets.DOCKERHUB_TOKEN}}
     steps:
       - uses: actions/checkout@v2
-      - name: login to docker hub
+      - name: echo
         id: docker-hub
         run: |
           echo "$username $password"
