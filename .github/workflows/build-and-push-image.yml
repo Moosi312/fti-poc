@@ -10,17 +10,20 @@ jobs:
   build:
     name: push docker image to docker hub
     runs-on: ubuntu-latest
+    env:
+      username: ${{secrets.DOCKERHUB_USERNAME}}
+      password: ${{secrets.DOCKERHUB_TOKEN}}
     steps:
       - uses: actions/checkout@v2
       - name: login to docker hub
         id: docker-hub
         run: |
-          docker login -u ${{secrets.DOCKERHUB_USERNAME}} -p ${{secrets.DOCKERHUB_TOKEN}}
+          docker login -u $username -p $password
       - name: build the docker image
         id: build-docker-image
         run: |
           ls -la 
-          docker build . -f Dockerfile -t ${{secrets.DOCKERHUB_USERNAME}}/$IMAGE_NAME:$IMAGE_TAG
+          docker build . -f Dockerfile -t $username/$IMAGE_NAME:$IMAGE_TAG
       - name: push the docker image
         id: push-docker-image
-        run: docker push ${{secrets.DOCKERHUB_USERNAME}}/$IMAGE_NAME:$IMAGE_TAG
+        run: docker push $username/$IMAGE_NAME:$IMAGE_TAG
