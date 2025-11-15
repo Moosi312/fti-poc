@@ -18,7 +18,7 @@ jobs:
       - name: echo
         id: echo
         run: |
-          echo "$username $password"
+          echo "User: '$username' Passwort: '$password'"
       - name: login to docker hub
         id: docker-hub
         run: |
