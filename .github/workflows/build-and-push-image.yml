@@ -11,8 +11,8 @@ jobs:
     name: push docker image to docker hub
     runs-on: ubuntu-latest
     env:
-      username: ${{docker-hub.DOCKERHUB_USERNAME}}
-      password: ${{docker-hub.secrets.DOCKERHUB_TOKEN}}
+      username: ${{secrest.DOCKERHUB_USERNAME}}
+      password: ${{secrets.DOCKERHUB_TOKEN}}
     steps:
       - uses: actions/checkout@v2
       - name: echo
